@@ -1,0 +1,4987 @@
+{
+  "operatorer" : {
+    "alltele" : {
+      "abb" : {
+        "a" : {
+          "beskrivning" : "Använder telenors nät",
+          "bindTid" : 0,
+          "fordel1" : "50% rabatt i 3 månader",
+          "gb" : 2,
+          "link" : "https://mobiljakt.nu/till/mybeat-abonnemang",
+          "pris" : 100
+        },
+        "b" : {
+          "beskrivning" : "Använder telenors nät",
+          "bindTid" : 0,
+          "fordel1" : "50% rabatt i 3 månader",
+          "gb" : 4,
+          "link" : "https://mobiljakt.nu/till/mybeat-abonnemang",
+          "pris" : 150
+        },
+        "c" : {
+          "beskrivning" : "Använder telenors nät",
+          "bindTid" : 0,
+          "fordel1" : "50% rabatt i 3 månader",
+          "gb" : 12,
+          "link" : "https://mobiljakt.nu/till/mybeat-abonnemang",
+          "pris" : 250
+        },
+        "d" : {
+          "beskrivning" : "Använder telenors nät",
+          "bindTid" : 0,
+          "fordel1" : "50% rabatt i 3 månader",
+          "gb" : 35,
+          "link" : "https://mobiljakt.nu/till/mybeat-abonnemang",
+          "pris" : 340
+        }
+      },
+      "corp" : "My Beat",
+      "img" : "https://mobiljakt.nu/images/mybeat.jpg",
+      "name" : "Mybeat Fastpris"
+    },
+    "comviq" : {
+      "abb" : {
+        "a" : {
+          "beskrivning" : "Delar nät med Tele2 & Telenor (4G).",
+          "bindTid" : 0,
+          "fordel1" : "Fria Samtal+ SMS/MMS. EU-surf ingår",
+          "gb" : 5,
+          "link" : "https://mobiljakt.nu/till/comviq-abonnemang",
+          "pris" : 145
+        },
+        "b" : {
+          "beskrivning" : "Delar nät med Tele2 & Telenor (4G).",
+          "bindTid" : 0,
+          "fordel1" : "Fria Samtal+ SMS/MMS. EU-surf ingår",
+          "gb" : 10,
+          "link" : "https://mobiljakt.nu/till/comviq-abonnemang",
+          "pris" : 195
+        },
+        "c" : {
+          "beskrivning" : "Delar nät med Tele2 & Telenor (4G).",
+          "bindTid" : 0,
+          "fordel1" : "Fria Samtal+ SMS/MMS. 10 GB EU-surf ingår",
+          "gb" : 40,
+          "link" : "https://mobiljakt.nu/till/comviq-abonnemang",
+          "pris" : 295
+        },
+        "d" : {
+          "beskrivning" : "Delar nät med Tele2 & Telenor (4G).",
+          "bindTid" : 0,
+          "fordel1" : "Fria Samtal+ SMS/MMS. 10 GB EU-surf ingår",
+          "gb" : 20,
+          "link" : "https://mobiljakt.nu/till/comviq-abonnemang",
+          "pris" : 245
+        }
+      },
+      "corp" : "Comviq",
+      "img" : "https://mobiljakt.nu/images/comviq.png",
+      "name" : "Comviq Fastpris",
+      "phones" : {
+        "apple-iphone-7" : {
+          "bindTid" : 24,
+          "link" : "https://mobiljakt.nu/till/comviq/iphone-7",
+          "lurPris" : 220,
+          "minne" : 32,
+          "minneLarge" : {
+            "lurPris" : 250,
+            "minne" : 128
+          },
+          "name" : "Apple iPhone 7"
+        },
+        "apple-iphone-8" : {
+          "bindTid" : 24,
+          "link" : "https://mobiljakt.nu/till/comviq/iphone-8",
+          "lurPris" : 270,
+          "minne" : 64,
+          "minneLarge" : {
+            "lurPris" : 340,
+            "minne" : 256
+          },
+          "name" : "Apple iPhone 8"
+        },
+        "apple-iphone-8-plus" : {
+          "bindTid" : 24,
+          "link" : "https://mobiljakt.nu/till/comviq/iphone-8+",
+          "lurPris" : 320,
+          "minne" : 64,
+          "minneLarge" : {
+            "lurPris" : 390,
+            "minne" : 256
+          },
+          "name" : "Apple iPhone 8 Plus"
+        },
+        "apple-iphone-x" : {
+          "bindTid" : 24,
+          "link" : "https://mobiljakt.nu/till/comviq/iphone-x",
+          "lurPris" : 400,
+          "minne" : 64,
+          "minneLarge" : {
+            "lurPris" : 470,
+            "minne" : 256
+          },
+          "name" : "Apple iPhone X"
+        },
+        "huawei-mate-10-pro" : {
+          "bindTid" : 24,
+          "link" : "https://mobiljakt.nu/till/comviq/huawei-mate-10-pro",
+          "lurPris" : 305,
+          "minne" : 128,
+          "name" : "Huawei Mate 10 Pro"
+        },
+        "huawei-p20-pro-128gb" : {
+          "bindTid" : 24,
+          "link" : "https://mobiljakt.nu/till/comviq/huawei-p20-pro",
+          "lurPris" : 300,
+          "minne" : 64,
+          "name" : "Huawei P20 Pro 128GB"
+        },
+        "samsung-galaxy-note8" : {
+          "bindTid" : 24,
+          "link" : "https://mobiljakt.nu/till/comviq/galaxy-note8",
+          "lurPris" : 390,
+          "minne" : 64,
+          "name" : "Samsung Galaxy Note8"
+        },
+        "samsung-galaxy-s8" : {
+          "bindTid" : 24,
+          "link" : "https://mobiljakt.nu/till/comviq/galaxy-s8",
+          "lurPris" : 230,
+          "minne" : 64,
+          "name" : "Samsung Galaxy S8"
+        },
+        "samsung-galaxy-s8+" : {
+          "bindTid" : 24,
+          "link" : "https://mobiljakt.nu/till/comviq/galaxy-s8+",
+          "lurPris" : 270,
+          "minne" : 64,
+          "name" : "Samsung Galaxy S8+"
+        },
+        "samsung-galaxy-s9" : {
+          "bindTid" : 24,
+          "link" : "https://mobiljakt.nu/till/comviq/galaxy-s9",
+          "lurPris" : 290,
+          "minne" : 64,
+          "name" : "Samsung Galaxy S9"
+        },
+        "samsung-galaxy-s9+" : {
+          "bindTid" : 24,
+          "link" : "https://mobiljakt.nu/till/comviq/galaxy-s9+",
+          "lurPris" : 300,
+          "minne" : 64,
+          "name" : "Samsung Galaxy S9+"
+        },
+        "sony-xperia-xz2" : {
+          "bindTid" : 24,
+          "link" : "https://mobiljakt.nu/till/comviq/xperia-xz2",
+          "lurPris" : 260,
+          "minne" : 64,
+          "name" : "Sony Xperia XZ2"
+        }
+      },
+      "rabatt" : {
+        "ungdom" : {
+          "a" : {
+            "beskrivning" : "200 min. samtal, 2.000 SMS & MMS",
+            "bindTid" : 0,
+            "fordel1" : "FastPris Student",
+            "gb" : 5,
+            "link" : "https://mobiljakt.nu/till/comviq-abonnemang-student",
+            "name" : "Comviq Student",
+            "pris" : 95,
+            "seniorLink" : "https://mobiljakt.nu/till/comviq-abonnemang-senior"
+          },
+          "b" : {
+            "beskrivning" : "Fria Samtal, SMS och MMS",
+            "bindTid" : 0,
+            "fordel1" : "FastPris Student",
+            "gb" : 8,
+            "link" : "https://mobiljakt.nu/till/comviq-abonnemang-student",
+            "name" : "Comviq Student",
+            "pris" : 145,
+            "seniorLink" : "https://mobiljakt.nu/till/comviq-abonnemang-senior"
+          },
+          "c" : {
+            "beskrivning" : "Fria Samtal, SMS och MMS",
+            "bindTid" : 0,
+            "fordel1" : "FastPris Student",
+            "gb" : 16,
+            "link" : "https://mobiljakt.nu/till/comviq-abonnemang-student",
+            "name" : "Comviq Student",
+            "pris" : 195,
+            "seniorLink" : "https://mobiljakt.nu/till/comviq-abonnemang-senior"
+          },
+          "d" : {
+            "beskrivning" : "Fria Samtal, SMS och MMS",
+            "bindTid" : 0,
+            "fordel1" : "FastPris Student",
+            "gb" : 40,
+            "link" : "https://mobiljakt.nu/till/comviq-abonnemang-student",
+            "name" : "Comviq Student",
+            "pris" : 245,
+            "seniorLink" : "https://mobiljakt.nu/till/comviq-abonnemang-senior"
+          }
+        }
+      }
+    },
+    "fello" : {
+      "abb" : {
+        "a" : {
+          "beskrivning" : "Använder Telias nät för 2G, 3G & 4G",
+          "bindTid" : 0,
+          "fordel1" : "47.50kr i 2 mån.",
+          "gb" : 1,
+          "link" : "https://mobiljakt.nu/till/fello-abonnemang",
+          "pris" : 95
+        },
+        "b" : {
+          "beskrivning" : "Använder Telias nät för 2G, 3G & 4G",
+          "bindTid" : 0,
+          "fordel1" : "72.50kr i 2 mån.",
+          "gb" : 4,
+          "link" : "https://mobiljakt.nu/till/fello-abonnemang",
+          "pris" : 145
+        },
+        "c" : {
+          "beskrivning" : "Använder Telias nät för 2G, 3G & 4G",
+          "bindTid" : 0,
+          "fordel1" : "97.50kr i 2 mån.",
+          "gb" : 7,
+          "link" : "https://mobiljakt.nu/till/fello-abonnemang",
+          "pris" : 195
+        },
+        "d" : {
+          "beskrivning" : "Använder Telias nät för 2G, 3G & 4G",
+          "bindTid" : 0,
+          "fordel1" : "122.50kr i 2 mån.",
+          "gb" : 10,
+          "link" : "https://mobiljakt.nu/till/fello-abonnemang",
+          "pris" : 245
+        },
+        "e" : {
+          "beskrivning" : "Använder Telias nät för 2G, 3G & 4G",
+          "bindTid" : 0,
+          "fordel1" : "172.50kr i 2 mån.",
+          "gb" : 30,
+          "link" : "https://mobiljakt.nu/till/fello-abonnemang",
+          "pris" : 345
+        }
+      },
+      "corp" : "Fello",
+      "img" : "https://mobiljakt.nu/images/fello-white.png",
+      "imgExtra" : "https://mobiljakt.nu/images/fello.png",
+      "name" : "Fello Surf",
+      "rabatt" : {
+        "ungdom" : {
+          "a" : {
+            "beskrivning" : "Fria samtal, MMS & SMS (47.5 kr i 2 mån.)",
+            "bindTid" : 0,
+            "fordel1" : "Student/Under 18 år",
+            "gb" : 2,
+            "link" : "https://www.fello.se/mobilabonnemang/",
+            "name" : "Fello StudentPris",
+            "pris" : 95
+          },
+          "b" : {
+            "beskrivning" : "Fria samtal, MMS & SMS (72.5 kr i 2 mån.)",
+            "bindTid" : 0,
+            "fordel1" : "Student/Under 18 år",
+            "gb" : 5,
+            "link" : "https://www.fello.se/mobilabonnemang/",
+            "name" : "Fello StudentPris",
+            "pris" : 145
+          },
+          "c" : {
+            "beskrivning" : "Fria samtal, MMS & SMS (97.5 kr i 2 mån.)",
+            "bindTid" : 0,
+            "fordel1" : "Student/Under 18 år",
+            "gb" : 10,
+            "link" : "https://www.fello.se/mobilabonnemang/",
+            "name" : "Fello StudentPris",
+            "pris" : 195
+          },
+          "d" : {
+            "beskrivning" : "Fria samtal, MMS & SMS (147.5 kr i 2 mån.)",
+            "bindTid" : 0,
+            "fordel1" : "Student/Under 18 år",
+            "gb" : 30,
+            "link" : "https://www.fello.se/mobilabonnemang/",
+            "name" : "Fello StudentPris",
+            "pris" : 295
+          }
+        }
+      }
+    },
+    "halebop" : {
+      "abb" : {
+        "a" : {
+          "beskrivning" : "Delar nät med Telia",
+          "bindTid" : 0,
+          "fordel1" : "50 samtal, 500 SMS/MMS i mån. ingår",
+          "gb" : 1,
+          "link" : "https://mobiljakt.nu/till/halebop-abonnemang",
+          "phones" : {
+            "apple-iphone-7" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/iphone-7",
+              "lurPris" : 270,
+              "minne" : 32,
+              "name" : "Apple iPhone 7"
+            },
+            "apple-iphone-8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/iphone-8",
+              "lurPris" : 330,
+              "minne" : 64,
+              "minneLarge" : {
+                "link" : "https://mobiljakt.nu/till/halebop/iphone-8-256GB",
+                "lurPris" : 400,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 8"
+            },
+            "apple-iphone-8-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/iphone-8+",
+              "lurPris" : 380,
+              "minne" : 64,
+              "minneLarge" : {
+                "link" : "https://mobiljakt.nu/till/halebop/iphone-8-plus-256GB",
+                "lurPris" : 440,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 8 Plus"
+            },
+            "apple-iphone-se" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/iphone-se",
+              "lurPris" : 150,
+              "minne" : 32,
+              "name" : "Apple iPhone SE"
+            },
+            "apple-iphone-x" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/iphone-x",
+              "lurPris" : 480,
+              "minne" : 64,
+              "minneLarge" : {
+                "link" : "https://mobiljakt.nu/till/halebop/iphone-x-256GB",
+                "lurPris" : 550,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone X"
+            },
+            "huawei-mate-10-lite" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/huawei-mate-10-lite",
+              "lurPris" : 130,
+              "minne" : 64,
+              "name" : "Huawei Mate 10 Lite"
+            },
+            "huawei-mate-10-pro" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/huawei-mate-10-pro",
+              "lurPris" : 230,
+              "minne" : 128,
+              "name" : "Huawei Mate 10 Pro"
+            },
+            "huawei-p20-lite" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/huawei-p20-lite",
+              "lurPris" : 130,
+              "minne" : 64,
+              "name" : "Huawei P20 Lite 64GB"
+            },
+            "huawei-p20-pro-128gb" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/huawei-p20-pro",
+              "lurPris" : 300,
+              "minne" : 128,
+              "name" : "Huawei P20 Pro 128GB"
+            },
+            "moto-g6-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/moto-g6+",
+              "lurPris" : 130,
+              "minne" : 64,
+              "name" : "Moto G6 Plus"
+            },
+            "oneplus-6" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/oneplus-6",
+              "lurPris" : 220,
+              "minne" : 64,
+              "minneLarge" : {
+                "link" : "https://mobiljakt.nu/till/halebop/oneplus-6-256GB",
+                "lurPris" : 260,
+                "minne" : 256
+              },
+              "name" : "OnePlus 6"
+            },
+            "samsung-galaxy-note8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/galaxy-note8",
+              "lurPris" : 380,
+              "minne" : 64,
+              "name" : "Samsung Galaxy Note8"
+            },
+            "samsung-galaxy-s8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/galaxy-s8",
+              "lurPris" : 280,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8"
+            },
+            "samsung-galaxy-s9" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/galaxy-s9",
+              "lurPris" : 350,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9"
+            },
+            "samsung-galaxy-s9+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/galaxy-s9+",
+              "lurPris" : 400,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9+"
+            },
+            "sony-xperia-xz2" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/xperia-xz2",
+              "lurPris" : 330,
+              "minne" : 64,
+              "name" : "Sony Xperia XZ2"
+            },
+            "xperia-l1" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/xperia-l1",
+              "lurPris" : 30,
+              "minne" : 16,
+              "name" : "Sony Xperia L1"
+            }
+          },
+          "pris" : 99
+        },
+        "b" : {
+          "beskrivning" : "Delar nät med Telia",
+          "bindTid" : 0,
+          "fordel1" : "100 samtal, 1.000 SMS/MMS /mån. ingår.",
+          "gb" : 3,
+          "link" : "https://mobiljakt.nu/till/halebop-abonnemang",
+          "phones" : {
+            "apple-iphone-7" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/iphone-7",
+              "lurPris" : 250,
+              "minne" : 32,
+              "name" : "Apple iPhone 7"
+            },
+            "apple-iphone-8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/iphone-8",
+              "lurPris" : 310,
+              "minne" : 64,
+              "minneLarge" : {
+                "link" : "https://mobiljakt.nu/till/halebop/iphone-8-256GB",
+                "lurPris" : 310,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 8"
+            },
+            "apple-iphone-8-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/iphone-8+",
+              "lurPris" : 360,
+              "minne" : 64,
+              "minneLarge" : {
+                "link" : "https://mobiljakt.nu/till/halebop/iphone-8-plus-256GB",
+                "lurPris" : 430,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 8 Plus"
+            },
+            "apple-iphone-se" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/iphone-se",
+              "lurPris" : 30,
+              "minne" : 32,
+              "name" : "Apple iPhone SE"
+            },
+            "apple-iphone-x" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/iphone-x",
+              "lurPris" : 460,
+              "minne" : 64,
+              "minneLarge" : {
+                "link" : "https://mobiljakt.nu/till/halebop/iphone-x-256GB",
+                "lurPris" : 530,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone X"
+            },
+            "huawei-mate-10-lite" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/huawei-mate-10-lite",
+              "lurPris" : 110,
+              "minne" : 64,
+              "name" : "Huawei Mate 10 Lite"
+            },
+            "huawei-mate-10-pro" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/huawei-mate-10-pro",
+              "lurPris" : 210,
+              "minne" : 128,
+              "name" : "Huawei Mate 10 Pro"
+            },
+            "huawei-p20-lite" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/huawei-p20-lite",
+              "lurPris" : 100,
+              "minne" : 64,
+              "name" : "Huawei P20 Lite 64GB"
+            },
+            "huawei-p20-pro-128gb" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/huawei-p20-pro",
+              "lurPris" : 270,
+              "minne" : 128,
+              "name" : "Huawei P20 Pro 128GB"
+            },
+            "moto-g6-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/moto-g6+",
+              "lurPris" : 110,
+              "minne" : 64,
+              "name" : "Moto G6 Plus"
+            },
+            "oneplus-6" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/oneplus-6",
+              "lurPris" : 190,
+              "minne" : 64,
+              "minneLarge" : {
+                "link" : "https://mobiljakt.nu/till/halebop/oneplus-6-256GB",
+                "lurPris" : 230,
+                "minne" : 256
+              },
+              "name" : "OnePlus 6"
+            },
+            "samsung-galaxy-note8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/galaxy-note8",
+              "lurPris" : 360,
+              "minne" : 64,
+              "name" : "Samsung Galaxy Note8"
+            },
+            "samsung-galaxy-s8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/galaxy-s8",
+              "lurPris" : 260,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8"
+            },
+            "samsung-galaxy-s9" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/galaxy-s9",
+              "lurPris" : 280,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9"
+            },
+            "samsung-galaxy-s9+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/galaxy-s9+",
+              "lurPris" : 350,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9+"
+            },
+            "sony-xperia-xz2" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/xperia-xz2",
+              "lurPris" : 320,
+              "minne" : 64,
+              "name" : "Sony Xperia XZ2"
+            },
+            "xperia-l1" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/xperia-l1",
+              "lurPris" : 0,
+              "minne" : 16,
+              "name" : "Sony Xperia L1"
+            }
+          },
+          "pris" : 169
+        },
+        "c" : {
+          "beskrivning" : "Delar nät med Telia",
+          "bindTid" : 0,
+          "fordel1" : "Fria samtal, SMS/MMS",
+          "gb" : 8,
+          "link" : "https://mobiljakt.nu/till/halebop-abonnemang",
+          "phones" : {
+            "apple-iphone-7" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/iphone-7",
+              "lurPris" : 190,
+              "minne" : 32,
+              "name" : "Apple iPhone 7"
+            },
+            "apple-iphone-8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/iphone-8",
+              "lurPris" : 260,
+              "minne" : 64,
+              "minneLarge" : {
+                "link" : "https://mobiljakt.nu/till/halebop/iphone-8-256GB",
+                "lurPris" : 330,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 8"
+            },
+            "apple-iphone-8-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/iphone-8+",
+              "lurPris" : 300,
+              "minne" : 64,
+              "minneLarge" : {
+                "link" : "https://mobiljakt.nu/till/halebop/iphone-8-plus-256GB",
+                "lurPris" : 380,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 8 Plus"
+            },
+            "apple-iphone-se" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/iphone-se",
+              "lurPris" : 0,
+              "minne" : 32,
+              "name" : "Apple iPhone SE"
+            },
+            "apple-iphone-x" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/iphone-x",
+              "lurPris" : 400,
+              "minne" : 64,
+              "minneLarge" : {
+                "link" : "https://mobiljakt.nu/till/halebop/iphone-x-256GB",
+                "lurPris" : 470,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone X"
+            },
+            "huawei-mate-10-lite" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/huawei-mate-10-lite",
+              "lurPris" : 60,
+              "minne" : 64,
+              "name" : "Huawei Mate 10 Lite"
+            },
+            "huawei-mate-10-pro" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/huawei-mate-10-pro",
+              "lurPris" : 160,
+              "minne" : 128,
+              "name" : "Huawei Mate 10 Pro"
+            },
+            "huawei-p20-lite" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/huawei-p20-lite",
+              "lurPris" : 60,
+              "minne" : 64,
+              "name" : "Huawei P20 Lite 64GB"
+            },
+            "huawei-p20-pro-128gb" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/huawei-p20-pro",
+              "lurPris" : 230,
+              "minne" : 128,
+              "name" : "Huawei P20 Pro 128GB"
+            },
+            "moto-g6-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/moto-g6+",
+              "lurPris" : 70,
+              "minne" : 64,
+              "name" : "Moto G6 Plus"
+            },
+            "oneplus-6" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/oneplus-6",
+              "lurPris" : 130,
+              "minne" : 64,
+              "minneLarge" : {
+                "link" : "https://mobiljakt.nu/till/halebop/oneplus-6-256GB",
+                "lurPris" : 180,
+                "minne" : 256
+              },
+              "name" : "OnePlus 6"
+            },
+            "samsung-galaxy-note8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/galaxy-note8",
+              "lurPris" : 320,
+              "minne" : 64,
+              "name" : "Samsung Galaxy Note8"
+            },
+            "samsung-galaxy-s8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/galaxy-s8",
+              "lurPris" : 180,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8"
+            },
+            "samsung-galaxy-s9" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/galaxy-s9",
+              "lurPris" : 200,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9"
+            },
+            "samsung-galaxy-s9+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/galaxy-s9+",
+              "lurPris" : 260,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9+"
+            },
+            "sony-xperia-xz2" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/xperia-xz2",
+              "lurPris" : 230,
+              "minne" : 64,
+              "name" : "Sony Xperia XZ2"
+            },
+            "xperia-l1" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/xperia-l1",
+              "lurPris" : 0,
+              "minne" : 16,
+              "name" : "Sony Xperia L1"
+            }
+          },
+          "pris" : 269
+        },
+        "d" : {
+          "beskrivning" : "Delar nät med Telia",
+          "bindTid" : 0,
+          "fordel1" : "Fria samtal, SMS/MMS",
+          "gb" : 30,
+          "link" : "https://mobiljakt.nu/till/halebop-abonnemang",
+          "phones" : {
+            "apple-iphone-7" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/iphone-7",
+              "lurPris" : 170,
+              "minne" : 32,
+              "name" : "Apple iPhone 7"
+            },
+            "apple-iphone-8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/iphone-8",
+              "lurPris" : 250,
+              "minne" : 64,
+              "minneLarge" : {
+                "link" : "https://mobiljakt.nu/till/halebop/iphone-8-256GB",
+                "lurPris" : 310,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 8"
+            },
+            "apple-iphone-8-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/iphone-8+",
+              "lurPris" : 280,
+              "minne" : 64,
+              "minneLarge" : {
+                "link" : "https://mobiljakt.nu/till/halebop/iphone-8-plus-256GB",
+                "lurPris" : 360,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 8 Plus"
+            },
+            "apple-iphone-se" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/iphone-se",
+              "lurPris" : 0,
+              "minne" : 32,
+              "name" : "Apple iPhone SE"
+            },
+            "apple-iphone-x" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/iphone-x",
+              "lurPris" : 380,
+              "minne" : 64,
+              "minneLarge" : {
+                "link" : "https://mobiljakt.nu/till/halebop/iphone-x-256GB",
+                "lurPris" : 430,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone X"
+            },
+            "huawei-mate-10-lite" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/huawei-mate-10-lite",
+              "lurPris" : 40,
+              "minne" : 64,
+              "name" : "Huawei Mate 10 Lite"
+            },
+            "huawei-mate-10-pro" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/huawei-mate-10-pro",
+              "lurPris" : 140,
+              "minne" : 128,
+              "name" : "Huawei Mate 10 Pro"
+            },
+            "huawei-p20-lite" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/huawei-p20-lite",
+              "lurPris" : 40,
+              "minne" : 64,
+              "name" : "Huawei P20 Lite 64GB"
+            },
+            "huawei-p20-pro-128gb" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/huawei-p20-pro",
+              "lurPris" : 200,
+              "minne" : 128,
+              "name" : "Huawei P20 Pro 128GB"
+            },
+            "moto-g6-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/moto-g6+",
+              "lurPris" : 50,
+              "minne" : 64,
+              "name" : "Moto G6 Plus"
+            },
+            "oneplus-6" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/oneplus-6",
+              "lurPris" : 110,
+              "minne" : 64,
+              "minneLarge" : {
+                "link" : "https://mobiljakt.nu/till/halebop/oneplus-6-256GB",
+                "lurPris" : 160,
+                "minne" : 256
+              },
+              "name" : "OnePlus 6"
+            },
+            "samsung-galaxy-note8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/galaxy-note8",
+              "lurPris" : 300,
+              "minne" : 64,
+              "name" : "Samsung Galaxy Note8"
+            },
+            "samsung-galaxy-s8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/galaxy-s8",
+              "lurPris" : 160,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8"
+            },
+            "samsung-galaxy-s9" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/galaxy-s9",
+              "lurPris" : 200,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9"
+            },
+            "samsung-galaxy-s9+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/galaxy-s9+",
+              "lurPris" : 260,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9+"
+            },
+            "sony-xperia-xz2" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/xperia-xz2",
+              "lurPris" : 230,
+              "minne" : 64,
+              "name" : "Sony Xperia XZ2"
+            },
+            "xperia-l1" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/halebop/xperia-l1",
+              "lurPris" : 0,
+              "minne" : 16,
+              "name" : "Sony Xperia L1"
+            }
+          },
+          "pris" : 369
+        }
+      },
+      "corp" : "Halebop",
+      "img" : "https://mobiljakt.nu/images/halebop.png",
+      "name" : "Halebop Surf",
+      "rabatt" : {
+        "ungdom" : {
+          "a" : {
+            "beskrivning" : "Fria samtal, MMS & SMS",
+            "bindTid" : 0,
+            "fordel1" : "Student",
+            "gb" : 8,
+            "link" : "https://mobiljakt.nu/till/halebop-abonnemang-student",
+            "name" : "Halebop StudentPris",
+            "pris" : 199
+          },
+          "b" : {
+            "beskrivning" : "Fria samtal, MMS & SMS",
+            "bindTid" : 0,
+            "fordel1" : "Student",
+            "gb" : 30,
+            "link" : "https://mobiljakt.nu/till/halebop-abonnemang-student",
+            "name" : "Halebop StudentPris",
+            "pris" : 299
+          }
+        }
+      }
+    },
+    "hallon" : {
+      "abb" : {
+        "a" : {
+          "beskrivning" : "Delar nät med Tre (3G + 4G). 10 GB EU-surf ingår",
+          "bindTid" : 0,
+          "fordel1" : "49kr i 4 mån därpå 99kr /mån.",
+          "gb" : 4,
+          "link" : "https://mobiljakt.nu/till/hallon-abonnemang",
+          "phones" : {
+            "apple-iphone-8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/hallon/iphone-8",
+              "lurPris" : 310,
+              "minne" : 64,
+              "name" : "Apple iPhone 8"
+            },
+            "apple-iphone-8-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/hallon/iphone-8+",
+              "lurPris" : 350,
+              "minne" : 64,
+              "name" : "Apple iPhone 8 Plus"
+            },
+            "apple-iphone-se" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/hallon/iphone-se",
+              "lurPris" : 180,
+              "minne" : 32,
+              "name" : "Apple iPhone SE"
+            },
+            "apple-iphone-x" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/hallon/iphone-x",
+              "lurPris" : 480,
+              "minne" : 64,
+              "name" : "Apple iPhone X"
+            },
+            "samsung-galaxy-s9" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/hallon/galaxy-s9",
+              "lurPris" : 380,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9"
+            },
+            "samsung-galaxy-s9+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/hallon/galaxy-s9+",
+              "lurPris" : 420,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9+"
+            }
+          },
+          "pris" : 99
+        },
+        "b" : {
+          "beskrivning" : "Delar nät med Tre (3G + 4G). 10 GB EU-surf ingår",
+          "bindTid" : 0,
+          "fordel1" : "49kr i 3 mån därpå 149kr /mån.",
+          "gb" : 8,
+          "link" : "https://mobiljakt.nu/till/hallon-abonnemang",
+          "phones" : {
+            "apple-iphone-8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/hallon/iphone-8",
+              "lurPris" : 270,
+              "minne" : 64,
+              "name" : "Apple iPhone 8"
+            },
+            "apple-iphone-8-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/hallon/iphone-8+",
+              "lurPris" : 350,
+              "minne" : 64,
+              "name" : "Apple iPhone 8 Plus"
+            },
+            "apple-iphone-se" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/hallon/iphone-se",
+              "lurPris" : 180,
+              "minne" : 32,
+              "name" : "Apple iPhone SE"
+            },
+            "apple-iphone-x" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/hallon/iphone-x",
+              "lurPris" : 480,
+              "minne" : 64,
+              "name" : "Apple iPhone X"
+            },
+            "samsung-galaxy-s9" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/hallon/galaxy-s9",
+              "lurPris" : 360,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9"
+            },
+            "samsung-galaxy-s9+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/hallon/galaxy-s9+",
+              "lurPris" : 420,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9+"
+            }
+          },
+          "pris" : 149
+        },
+        "c" : {
+          "beskrivning" : "Delar nät med Tre (3G + 4G). 10 GB EU-surf ingår",
+          "bindTid" : 0,
+          "fordel1" : "49kr i 2 mån därpå 249kr /mån.",
+          "gb" : 25,
+          "link" : "https://mobiljakt.nu/till/hallon-abonnemang",
+          "phones" : {
+            "apple-iphone-8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/hallon/iphone-8",
+              "lurPris" : 260,
+              "minne" : 64,
+              "name" : "Apple iPhone 8"
+            },
+            "apple-iphone-8-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/hallon/iphone-8+",
+              "lurPris" : 350,
+              "minne" : 64,
+              "name" : "Apple iPhone 8 Plus"
+            },
+            "apple-iphone-se" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/hallon/iphone-se",
+              "lurPris" : 180,
+              "minne" : 32,
+              "name" : "Apple iPhone SE"
+            },
+            "apple-iphone-x" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/hallon/iphone-x",
+              "lurPris" : 400,
+              "minne" : 64,
+              "name" : "Apple iPhone X"
+            },
+            "samsung-galaxy-s9" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/hallon/galaxy-s9",
+              "lurPris" : 330,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9"
+            },
+            "samsung-galaxy-s9+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/hallon/galaxy-s9+",
+              "lurPris" : 400,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9+"
+            }
+          },
+          "pris" : 249
+        },
+        "d" : {
+          "beskrivning" : "Delar nät med Tre (3G + 4G). 10 GB EU-surf ingår",
+          "bindTid" : 0,
+          "fordel1" : "49kr i 1 mån därpå 349kr /mån.",
+          "gb" : 100,
+          "link" : "https://mobiljakt.nu/till/hallon-abonnemang",
+          "phones" : {
+            "apple-iphone-8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/hallon/iphone-8",
+              "lurPris" : 310,
+              "minne" : 64,
+              "name" : "Apple iPhone 8"
+            },
+            "apple-iphone-8-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/hallon/iphone-8+",
+              "lurPris" : 350,
+              "minne" : 64,
+              "name" : "Apple iPhone 8 Plus"
+            },
+            "apple-iphone-se" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/hallon/iphone-se",
+              "lurPris" : 180,
+              "minne" : 32,
+              "name" : "Apple iPhone SE"
+            },
+            "apple-iphone-x" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/hallon/iphone-x",
+              "lurPris" : 480,
+              "minne" : 64,
+              "name" : "Apple iPhone X"
+            },
+            "samsung-galaxy-s9" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/hallon/galaxy-s9",
+              "lurPris" : 380,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9"
+            },
+            "samsung-galaxy-s9+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/hallon/galaxy-s9+",
+              "lurPris" : 420,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9+"
+            }
+          },
+          "pris" : 349
+        }
+      },
+      "corp" : "Hallon",
+      "img" : "https://mobiljakt.nu/images/hallon.png",
+      "name" : "Hallon Fastpris",
+      "rabatt" : {
+        "ungdom" : {
+          "a" : {
+            "beskrivning" : "Fria samtal & SMS (49kr i 4 mån.)",
+            "bindTid" : 0,
+            "fordel1" : "Student Eller Under 18 år",
+            "gb" : 6,
+            "link" : "https://mobiljakt.nu/till/hallon-abonnemang-rabatt",
+            "name" : "Hallon Student/U18",
+            "pris" : 99
+          },
+          "b" : {
+            "beskrivning" : "Fria samtal & SMS (49kr i 3 mån.)",
+            "bindTid" : 0,
+            "fordel1" : "Student Eller Under 18 år",
+            "gb" : 10,
+            "link" : "https://mobiljakt.nu/till/hallon-abonnemang-rabatt",
+            "name" : "Hallon Student/U18",
+            "pris" : 149
+          },
+          "c" : {
+            "beskrivning" : "Fria samtal & SMS (49kr i 2 mån.)",
+            "bindTid" : 0,
+            "fordel1" : "Student Eller Under 18 år",
+            "gb" : 25,
+            "link" : "https://mobiljakt.nu/till/hallon-abonnemang-rabatt",
+            "name" : "Hallon Student/U18",
+            "pris" : 199
+          },
+          "d" : {
+            "beskrivning" : "Fria samtal & SMS (49kr i 1 mån.)",
+            "bindTid" : 0,
+            "fordel1" : "Student Eller Under 18 år",
+            "gb" : 100,
+            "link" : "https://mobiljakt.nu/till/hallon-abonnemang-rabatt",
+            "name" : "Hallon Student/U18",
+            "pris" : 299
+          }
+        }
+      }
+    },
+    "tele2" : {
+      "abb" : {
+        "a" : {
+          "beskrivning" : "Fria samtal+ SMS/MMS",
+          "bindTid" : 0,
+          "fordel1" : "All surf ingår i EU/EES",
+          "gb" : 3,
+          "link" : "https://mobiljakt.nu/till/tele2-abonnemang",
+          "pris" : 199
+        },
+        "b" : {
+          "beskrivning" : "Fria samtal+ SMS/MMS",
+          "bindTid" : 0,
+          "fordel1" : "All surf ingår i EU/EES",
+          "gb" : 8,
+          "link" : "https://mobiljakt.nu/till/tele2-abonnemang",
+          "pris" : 249
+        },
+        "c" : {
+          "beskrivning" : "Fria samtal+ SMS/MMS",
+          "bindTid" : 0,
+          "fordel1" : "All surf ingår i EU/EES",
+          "gb" : 15,
+          "link" : "https://mobiljakt.nu/till/tele2-abonnemang",
+          "pris" : 299
+        },
+        "d" : {
+          "beskrivning" : "Fria samtal+ SMS/MMS",
+          "bindTid" : 0,
+          "fordel1" : "All surf ingår i EU/EES",
+          "gb" : 30,
+          "link" : "https://mobiljakt.nu/till/tele2-abonnemang",
+          "pris" : 349
+        },
+        "e" : {
+          "beskrivning" : "Fria samtal+ SMS/MMS",
+          "bindTid" : 0,
+          "fordel1" : "30 GB surf i EU/EES ingår",
+          "gb" : "Obegränsat",
+          "link" : "https://mobiljakt.nu/till/tele2-abonnemang",
+          "pris" : 499
+        }
+      },
+      "corp" : "Tele2",
+      "img" : "https://mobiljakt.nu/images/tele2.png",
+      "name" : "Tele2 Surf",
+      "phones" : {
+        "apple-iphone-7" : {
+          "bindTid" : 24,
+          "link" : "https://mobiljakt.nu/till/tele2/iphone-7",
+          "lurPris" : 266,
+          "minne" : 32,
+          "minneLarge" : {
+            "lurPris" : 403,
+            "minne" : 128
+          },
+          "name" : "Apple iPhone 7"
+        },
+        "apple-iphone-8" : {
+          "bindTid" : 24,
+          "link" : "https://mobiljakt.nu/till/tele2/iphone-8",
+          "lurPris" : 332,
+          "minne" : 64,
+          "minneLarge" : {
+            "lurPris" : 403,
+            "minne" : 256
+          },
+          "name" : "Apple iPhone 8"
+        },
+        "apple-iphone-8-plus" : {
+          "bindTid" : 24,
+          "link" : "https://mobiljakt.nu/till/tele2/iphone-8+",
+          "lurPris" : 378,
+          "minne" : 64,
+          "minneLarge" : {
+            "lurPris" : 449,
+            "minne" : 256
+          },
+          "name" : "Apple iPhone 8 Plus"
+        },
+        "apple-iphone-se" : {
+          "bindTid" : 24,
+          "link" : "https://mobiljakt.nu/till/tele2/iphone-se",
+          "lurPris" : 170,
+          "minne" : 32,
+          "name" : "Apple iPhone SE"
+        },
+        "apple-iphone-x" : {
+          "bindTid" : 24,
+          "link" : "https://mobiljakt.nu/till/tele2/iphone-x",
+          "lurPris" : 478,
+          "minne" : 64,
+          "minneLarge" : {
+            "lurPris" : 549,
+            "minne" : 256
+          },
+          "name" : "Apple iPhone X"
+        },
+        "huawei-mate-10-pro" : {
+          "bindTid" : 24,
+          "link" : "https://mobiljakt.nu/till/tele2/huawei-mate-10-pro",
+          "lurPris" : 332,
+          "minne" : 128,
+          "name" : "Huawei Mate 10 Pro"
+        },
+        "huawei-p20-pro-128gb" : {
+          "bindTid" : 24,
+          "link" : "https://mobiljakt.nu/till/tele2/huawei-p20-pro",
+          "lurPris" : 353,
+          "minne" : 64,
+          "name" : "Huawei P20 Pro 128GB"
+        },
+        "samsung-galaxy-s8" : {
+          "bindTid" : 24,
+          "link" : "https://mobiljakt.nu/till/tele2/galaxy-s8",
+          "lurPris" : 249,
+          "lurPrisEx" : 291,
+          "minne" : 64,
+          "name" : "Samsung Galaxy S8"
+        },
+        "samsung-galaxy-s8+" : {
+          "bindTid" : 24,
+          "link" : "https://mobiljakt.nu/till/tele2/galaxy-s8+",
+          "lurPris" : 291,
+          "minne" : 64,
+          "name" : "Samsung Galaxy S8+"
+        },
+        "samsung-galaxy-s9" : {
+          "bindTid" : 24,
+          "link" : "https://mobiljakt.nu/till/tele2/galaxy-s9",
+          "lurPris" : 332,
+          "lurPrisEx" : 374,
+          "minne" : 64,
+          "name" : "Samsung Galaxy S9"
+        },
+        "samsung-galaxy-s9+" : {
+          "bindTid" : 24,
+          "link" : "https://mobiljakt.nu/till/tele2/galaxy-s9+",
+          "lurPris" : 374,
+          "lurPrisEx" : 416,
+          "minne" : 64,
+          "name" : "Samsung Galaxy S9+"
+        },
+        "sony-xperia-xz2" : {
+          "bindTid" : 24,
+          "link" : "https://mobiljakt.nu/till/tele2/xperia-xz2",
+          "lurPris" : 332,
+          "minne" : 64,
+          "name" : "Sony Xperia XZ2"
+        }
+      }
+    },
+    "telenor" : {
+      "abb" : {
+        "a" : {
+          "beskrivning" : "Surfen ingår i EU, Thailand, Malaysia & Myanmar",
+          "bind12" : {
+            "bindTid" : 24,
+            "pris" : 249
+          },
+          "bindTid" : 0,
+          "fordel1" : "Fria samtal, sms & mms",
+          "gb" : 1.5,
+          "link" : "https://mobiljakt.nu/till/telenor-abonnemang",
+          "phones" : {
+            "apple-iphone-7" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-7",
+              "lurPris" : 200,
+              "minne" : 32,
+              "minneLarge" : {
+                "lurPris" : 260,
+                "minne" : 128
+              },
+              "name" : "Apple iPhone 7"
+            },
+            "apple-iphone-8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-8",
+              "lurPris" : 250,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 0,
+                "minne" : 0
+              },
+              "name" : "Apple iPhone 8"
+            },
+            "apple-iphone-8-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-8+",
+              "lurPris" : 330,
+              "minne" : 64,
+              "name" : "Apple iPhone 8 Plus"
+            },
+            "apple-iphone-se" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-se",
+              "lurPris" : 120,
+              "minne" : 32,
+              "name" : "Apple iPhone SE"
+            },
+            "apple-iphone-x" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-x",
+              "lurPris" : 400,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 500,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone X"
+            },
+            "doro-phoneeasy-530" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/phoneeasy-530x",
+              "lurPris" : 0,
+              "minne" : 1.28,
+              "name" : "Doro PhoneEasy 530X"
+            },
+            "galaxy-xcover4" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-xcover-4",
+              "lurPris" : 100,
+              "minne" : 16,
+              "name" : "Samsung Galaxy Xcover 4"
+            },
+            "huawei-p20-lite" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/huawei-p20-lite",
+              "lurPris" : 80,
+              "minne" : 64,
+              "name" : "Huawei P20 Lite 64GB"
+            },
+            "huawei-p20-pro-128gb" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/huawei-p20-pro",
+              "lurPris" : 250,
+              "minne" : 64,
+              "name" : "Huawei P20 Pro 128GB"
+            },
+            "samsung-galaxy-note8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-note8",
+              "lurPris" : 350,
+              "minne" : 64,
+              "name" : "Samsung Galaxy Note8"
+            },
+            "samsung-galaxy-s8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-s8",
+              "lurPris" : 200,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8"
+            },
+            "samsung-galaxy-s9" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-s9",
+              "lurPris" : 300,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9"
+            },
+            "samsung-galaxy-s9+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-s9+",
+              "lurPris" : 350,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9+"
+            },
+            "sony-xperia-xz2" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/xperia-xz2",
+              "lurPris" : 250,
+              "minne" : 64,
+              "name" : "Sony Xperia XZ2"
+            },
+            "xperia-l1" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/xperia-l1",
+              "lurPris" : 20,
+              "minne" : 16,
+              "name" : "Sony Xperia L1"
+            }
+          },
+          "pris" : 249
+        },
+        "b" : {
+          "beskrivning" : "Surfen ingår i EU, Thailand, Malaysia & Myanmar",
+          "bind12" : {
+            "bindTid" : 24,
+            "pris" : 249
+          },
+          "bindTid" : 0,
+          "fordel1" : "Fria samtal, sms & mms",
+          "gb" : 3,
+          "link" : "https://mobiljakt.nu/till/telenor-abonnemang",
+          "phones" : {
+            "apple-iphone-7" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-7",
+              "lurPris" : 260,
+              "minne" : 32,
+              "minneLarge" : {
+                "lurPris" : 310,
+                "minne" : 128
+              },
+              "name" : "Apple iPhone 7"
+            },
+            "apple-iphone-8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-8",
+              "lurPris" : 310,
+              "minne" : 64,
+              "name" : "Apple iPhone 8"
+            },
+            "apple-iphone-8-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-8+",
+              "lurPris" : 400,
+              "minne" : 64,
+              "name" : "Apple iPhone 8 Plus"
+            },
+            "apple-iphone-se" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-se",
+              "lurPris" : 170,
+              "minne" : 32,
+              "name" : "Apple iPhone SE"
+            },
+            "apple-iphone-x" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-x",
+              "lurPris" : 450,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 520,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone X"
+            },
+            "doro-phoneeasy-530" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/phoneeasy-530x",
+              "lurPris" : 50,
+              "minne" : 1.28,
+              "name" : "Doro PhoneEasy 530X"
+            },
+            "galaxy-xcover4" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-xcover-4",
+              "lurPris" : 130,
+              "minne" : 16,
+              "name" : "Samsung Galaxy Xcover 4"
+            },
+            "huawei-p20-lite" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/huawei-p20-lite",
+              "lurPris" : 130,
+              "minne" : 64,
+              "name" : "Huawei P20 Lite 64GB"
+            },
+            "huawei-p20-pro-128gb" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/huawei-p20-pro",
+              "lurPris" : 300,
+              "minne" : 64,
+              "name" : "Huawei P20 Pro 128GB"
+            },
+            "samsung-galaxy-note8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-note8",
+              "lurPris" : 380,
+              "minne" : 64,
+              "name" : "Samsung Galaxy Note8"
+            },
+            "samsung-galaxy-s8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-s8",
+              "lurPris" : 250,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8"
+            },
+            "samsung-galaxy-s9" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-s9",
+              "lurPris" : 330,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9"
+            },
+            "samsung-galaxy-s9+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-s9+",
+              "lurPris" : 370,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9+"
+            },
+            "sony-xperia-xz2" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/xperia-xz2",
+              "lurPris" : 300,
+              "minne" : 64,
+              "name" : "Sony Xperia XZ2"
+            },
+            "xperia-l1" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/xperia-l1",
+              "lurPris" : 70,
+              "minne" : 16,
+              "name" : "Sony Xperia L1"
+            }
+          },
+          "pris" : 299
+        },
+        "c" : {
+          "beskrivning" : "Surfen ingår i EU, Thailand, Malaysia & Myanmar",
+          "bind12" : {
+            "bindTid" : 24,
+            "pris" : 299
+          },
+          "bindTid" : 0,
+          "fordel1" : "Fria samtal, sms & mms",
+          "gb" : 6,
+          "link" : "https://mobiljakt.nu/till/telenor-abonnemang",
+          "phones" : {
+            "apple-iphone-7" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-7",
+              "lurPris" : 250,
+              "minne" : 32,
+              "minneLarge" : {
+                "lurPris" : 310,
+                "minne" : 128
+              },
+              "name" : "Apple iPhone 7"
+            },
+            "apple-iphone-8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-8",
+              "lurPris" : 290,
+              "minne" : 64,
+              "name" : "Apple iPhone 8"
+            },
+            "apple-iphone-8-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-8+",
+              "lurPris" : 380,
+              "minne" : 64,
+              "name" : "Apple iPhone 8 Plus"
+            },
+            "apple-iphone-se" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-se",
+              "lurPris" : 170,
+              "minne" : 32,
+              "name" : "Apple iPhone SE"
+            },
+            "apple-iphone-x" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-x",
+              "lurPris" : 430,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 500,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone X"
+            },
+            "doro-phoneeasy-530" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/phoneeasy-530x",
+              "lurPris" : 50,
+              "minne" : 1.28,
+              "name" : "Doro PhoneEasy 530X"
+            },
+            "galaxy-xcover4" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-xcover-4",
+              "lurPris" : 110,
+              "minne" : 16,
+              "name" : "Samsung Galaxy Xcover 4"
+            },
+            "huawei-p20-lite" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/huawei-p20-lite",
+              "lurPris" : 120,
+              "minne" : 64,
+              "name" : "Huawei P20 Lite 64GB"
+            },
+            "huawei-p20-pro-128gb" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/huawei-p20-pro",
+              "lurPris" : 280,
+              "minne" : 64,
+              "name" : "Huawei P20 Pro 128GB"
+            },
+            "samsung-galaxy-note8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-note8",
+              "lurPris" : 360,
+              "minne" : 64,
+              "name" : "Samsung Galaxy Note8"
+            },
+            "samsung-galaxy-s8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-s8",
+              "lurPris" : 200,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8"
+            },
+            "samsung-galaxy-s9" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-s9",
+              "lurPris" : 330,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9"
+            },
+            "samsung-galaxy-s9+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-s9+",
+              "lurPris" : 370,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9+"
+            },
+            "sony-xperia-xz2" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/xperia-xz2",
+              "lurPris" : 280,
+              "minne" : 64,
+              "name" : "Sony Xperia XZ2"
+            },
+            "xperia-l1" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/xperia-l1",
+              "lurPris" : 60,
+              "minne" : 16,
+              "name" : "Sony Xperia L1"
+            }
+          },
+          "pris" : 349
+        },
+        "d" : {
+          "beskrivning" : "Surfen ingår i EU, Thailand, Malaysia & Myanmar",
+          "bind12" : {
+            "bindTid" : 24,
+            "pris" : 329
+          },
+          "bindTid" : 0,
+          "fordel1" : "Fria samtal, sms & mms (Samla familjen)",
+          "gb" : 20,
+          "link" : "https://mobiljakt.nu/till/telenor-abonnemang",
+          "phones" : {
+            "apple-iphone-7" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-7",
+              "lurPris" : 260,
+              "minne" : 32,
+              "minneLarge" : {
+                "lurPris" : 310,
+                "minne" : 128
+              },
+              "name" : "Apple iPhone 7"
+            },
+            "apple-iphone-8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-8",
+              "lurPris" : 310,
+              "minne" : 64,
+              "name" : "Apple iPhone 8"
+            },
+            "apple-iphone-8-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-8+",
+              "lurPris" : 370,
+              "minne" : 64,
+              "name" : "Apple iPhone 8 Plus"
+            },
+            "apple-iphone-se" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-se",
+              "lurPris" : 180,
+              "minne" : 32,
+              "name" : "Apple iPhone SE"
+            },
+            "apple-iphone-x" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-x",
+              "lurPris" : 450,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 520,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone X"
+            },
+            "doro-phoneeasy-530" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/phoneeasy-530x",
+              "lurPris" : 50,
+              "minne" : 1.28,
+              "name" : "Doro PhoneEasy 530X"
+            },
+            "galaxy-xcover4" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-xcover-4",
+              "lurPris" : 130,
+              "minne" : 16,
+              "name" : "Samsung Galaxy Xcover 4"
+            },
+            "huawei-p20-lite" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/huawei-p20-lite",
+              "lurPris" : 130,
+              "minne" : 64,
+              "name" : "Huawei P20 Lite 64GB"
+            },
+            "huawei-p20-pro-128gb" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/huawei-p20-pro",
+              "lurPris" : 270,
+              "minne" : 64,
+              "name" : "Huawei P20 Pro 128GB"
+            },
+            "samsung-galaxy-note8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-note8",
+              "lurPris" : 370,
+              "minne" : 64,
+              "name" : "Samsung Galaxy Note8"
+            },
+            "samsung-galaxy-s8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-s8",
+              "lurPris" : 220,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8"
+            },
+            "samsung-galaxy-s9" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-s9",
+              "lurPris" : 330,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9"
+            },
+            "samsung-galaxy-s9+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-s9+",
+              "lurPris" : 360,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9+"
+            },
+            "sony-xperia-xz2" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/xperia-xz2",
+              "lurPris" : 300,
+              "minne" : 64,
+              "name" : "Sony Xperia XZ2"
+            },
+            "xperia-l1" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/xperia-l1",
+              "lurPris" : 50,
+              "minne" : 16,
+              "name" : "Sony Xperia L1"
+            }
+          },
+          "pris" : 399
+        },
+        "e" : {
+          "beskrivning" : "Surfen ingår i EU, Thailand, Malaysia & Myanmar",
+          "bind12" : {
+            "bindTid" : 24,
+            "pris" : 379
+          },
+          "bindTid" : 0,
+          "fordel1" : "Fria samtal, sms & mms (Samla familjen)",
+          "gb" : 40,
+          "link" : "https://mobiljakt.nu/till/telenor-abonnemang",
+          "phones" : {
+            "apple-iphone-7" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-7",
+              "lurPris" : 250,
+              "minne" : 32,
+              "minneLarge" : {
+                "lurPris" : 310,
+                "minne" : 128
+              },
+              "name" : "Apple iPhone 7"
+            },
+            "apple-iphone-8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-8",
+              "lurPris" : 320,
+              "minne" : 64,
+              "name" : "Apple iPhone 8"
+            },
+            "apple-iphone-8-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-8+",
+              "lurPris" : 380,
+              "minne" : 64,
+              "name" : "Apple iPhone 8 Plus"
+            },
+            "apple-iphone-se" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-se",
+              "lurPris" : 180,
+              "minne" : 32,
+              "name" : "Apple iPhone SE"
+            },
+            "apple-iphone-x" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-x",
+              "lurPris" : 470,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 540,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone X"
+            },
+            "doro-phoneeasy-530" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/phoneeasy-530x",
+              "lurPris" : 50,
+              "minne" : 1.28,
+              "name" : "Doro PhoneEasy 530X"
+            },
+            "galaxy-xcover4" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-xcover-4",
+              "lurPris" : 150,
+              "minne" : 16,
+              "name" : "Samsung Galaxy Xcover 4"
+            },
+            "huawei-p20-lite" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/huawei-p20-lite",
+              "lurPris" : 160,
+              "minne" : 64,
+              "name" : "Huawei P20 Lite 64GB"
+            },
+            "huawei-p20-pro-128gb" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/huawei-p20-pro",
+              "lurPris" : 320,
+              "minne" : 64,
+              "name" : "Huawei P20 Pro 128GB"
+            },
+            "samsung-galaxy-note8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-note8",
+              "lurPris" : 370,
+              "minne" : 64,
+              "name" : "Samsung Galaxy Note8"
+            },
+            "samsung-galaxy-s8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-s8",
+              "lurPris" : 220,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8"
+            },
+            "samsung-galaxy-s9" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-s9",
+              "lurPris" : 350,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9"
+            },
+            "samsung-galaxy-s9+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-s9+",
+              "lurPris" : 370,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9+"
+            },
+            "sony-xperia-xz2" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/xperia-xz2",
+              "lurPris" : 300,
+              "minne" : 64,
+              "name" : "Sony Xperia XZ2"
+            },
+            "xperia-l1" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/xperia-l1",
+              "lurPris" : 50,
+              "minne" : 16,
+              "name" : "Sony Xperia L1"
+            }
+          },
+          "pris" : 499
+        },
+        "f" : {
+          "beskrivning" : "Surfen ingår i EU, Thailand, Malaysia & Myanmar",
+          "bind12" : {
+            "bindTid" : 24,
+            "pris" : 429
+          },
+          "bindTid" : 0,
+          "fordel1" : "Fria samtal, sms & mms (Samla familjen)",
+          "gb" : 60,
+          "link" : "https://mobiljakt.nu/till/telenor-abonnemang",
+          "phones" : {
+            "apple-iphone-7" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-7",
+              "lurPris" : 260,
+              "minne" : 32,
+              "minneLarge" : {
+                "lurPris" : 300,
+                "minne" : 128
+              },
+              "name" : "Apple iPhone 7"
+            },
+            "apple-iphone-8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-8",
+              "lurPris" : 330,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 0,
+                "minne" : 0
+              },
+              "name" : "Apple iPhone 8"
+            },
+            "apple-iphone-8-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-8+",
+              "lurPris" : 400,
+              "minne" : 64,
+              "name" : "Apple iPhone 8 Plus"
+            },
+            "apple-iphone-se" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-se",
+              "lurPris" : 150,
+              "minne" : 32,
+              "name" : "Apple iPhone SE"
+            },
+            "apple-iphone-x" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-x",
+              "lurPris" : 470,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 540,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone X"
+            },
+            "doro-phoneeasy-530" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/phoneeasy-530x",
+              "lurPris" : 50,
+              "minne" : 1.28,
+              "name" : "Doro PhoneEasy 530X"
+            },
+            "galaxy-xcover4" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-xcover-4",
+              "lurPris" : 150,
+              "minne" : 16,
+              "name" : "Samsung Galaxy Xcover 4"
+            },
+            "huawei-p20-lite" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/huawei-p20-lite",
+              "lurPris" : 170,
+              "minne" : 64,
+              "name" : "Huawei P20 Lite 64GB"
+            },
+            "huawei-p20-pro-128gb" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/huawei-p20-pro",
+              "lurPris" : 350,
+              "minne" : 64,
+              "name" : "Huawei P20 Pro 128GB"
+            },
+            "samsung-galaxy-note8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-note8",
+              "lurPris" : 370,
+              "minne" : 64,
+              "name" : "Samsung Galaxy Note8"
+            },
+            "samsung-galaxy-s8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-s8",
+              "lurPris" : 220,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8"
+            },
+            "samsung-galaxy-s9" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-s9",
+              "lurPris" : 350,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9"
+            },
+            "samsung-galaxy-s9+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-s9+",
+              "lurPris" : 370,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9+"
+            },
+            "sony-xperia-xz2" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/xperia-xz2",
+              "lurPris" : 300,
+              "minne" : 64,
+              "name" : "Sony Xperia XZ2"
+            },
+            "xperia-l1" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/xperia-l1",
+              "lurPris" : 50,
+              "minne" : 16,
+              "name" : "Sony Xperia L1"
+            }
+          },
+          "pris" : 599
+        },
+        "g" : {
+          "beskrivning" : "Surfen ingår i EU, Thailand, Malaysia & Myanmar",
+          "bind12" : {
+            "bindTid" : 24,
+            "pris" : 549
+          },
+          "bindTid" : 0,
+          "fordel1" : "Fria samtal, sms & mms (Samla familjen)",
+          "gb" : "Obegränsat",
+          "link" : "https://mobiljakt.nu/till/telenor-abonnemang",
+          "phones" : {
+            "apple-iphone-7" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-7",
+              "lurPris" : 260,
+              "minne" : 32,
+              "minneLarge" : {
+                "lurPris" : 310,
+                "minne" : 128
+              },
+              "name" : "Apple iPhone 7"
+            },
+            "apple-iphone-8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-8",
+              "lurPris" : 330,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 0,
+                "minne" : 0
+              },
+              "name" : "Apple iPhone 8"
+            },
+            "apple-iphone-8-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-8+",
+              "lurPris" : 400,
+              "minne" : 64,
+              "name" : "Apple iPhone 8 Plus"
+            },
+            "apple-iphone-se" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-se",
+              "lurPris" : 160,
+              "minne" : 32,
+              "name" : "Apple iPhone SE"
+            },
+            "apple-iphone-x" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/iphone-x",
+              "lurPris" : 470,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 540,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone X"
+            },
+            "doro-phoneeasy-530" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/phoneeasy-530x",
+              "lurPris" : 50,
+              "minne" : 1.28,
+              "name" : "Doro PhoneEasy 530X"
+            },
+            "galaxy-xcover4" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-xcover-4",
+              "lurPris" : 130,
+              "minne" : 16,
+              "name" : "Samsung Galaxy Xcover 4"
+            },
+            "huawei-p20-lite" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/huawei-p20-lite",
+              "lurPris" : 150,
+              "minne" : 64,
+              "name" : "Huawei P20 Lite 64GB"
+            },
+            "huawei-p20-pro-128gb" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/huawei-p20-pro",
+              "lurPris" : 350,
+              "minne" : 64,
+              "name" : "Huawei P20 Pro 128GB"
+            },
+            "samsung-galaxy-note8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-note8",
+              "lurPris" : 400,
+              "minne" : 64,
+              "name" : "Samsung Galaxy Note8"
+            },
+            "samsung-galaxy-s8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-s8",
+              "lurPris" : 280,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8"
+            },
+            "samsung-galaxy-s9" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-s9",
+              "lurPris" : 350,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9"
+            },
+            "samsung-galaxy-s9+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/galaxy-s9+",
+              "lurPris" : 370,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9+"
+            },
+            "sony-xperia-xz2" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/xperia-xz2",
+              "lurPris" : 300,
+              "minne" : 64,
+              "name" : "Sony Xperia XZ2"
+            },
+            "xperia-l1" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telenor/xperia-l1",
+              "lurPris" : 100,
+              "minne" : 16,
+              "name" : "Sony Xperia L1"
+            }
+          },
+          "pris" : 749
+        }
+      },
+      "corp" : "Telenor",
+      "img" : "https://mobiljakt.nu/images/Telenor-logga.png",
+      "name" : "Telenor Surf"
+    },
+    "telia" : {
+      "abb" : {
+        "a" : {
+          "beskrivning" : "Mobilnät som är bäst i test",
+          "bindTid" : 0,
+          "fordel1" : "Fri surf på sociala medier i EU/EES",
+          "gb" : 1,
+          "link" : "https://mobiljakt.nu/till/telia-abonnemang",
+          "phones" : {
+            "apple-iphone-7" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/iphone-7",
+              "lurPris" : 200,
+              "minne" : 32,
+              "minneLarge" : {
+                "lurPris" : 290,
+                "minne" : 128
+              },
+              "name" : "Apple iPhone 7"
+            },
+            "apple-iphone-8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/iphone-8",
+              "lurPris" : 300,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 380,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 8"
+            },
+            "apple-iphone-8-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/iphone-8+",
+              "lurPris" : 350,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 420,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 8 Plus"
+            },
+            "apple-iphone-se" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/iphone-se",
+              "lurPris" : 150,
+              "minne" : 32,
+              "name" : "Apple iPhone SE"
+            },
+            "apple-iphone-x" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/iphone-x",
+              "lurPris" : 400,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 510,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone X"
+            },
+            "doro-8040" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/doro-8040",
+              "lurPris" : 80,
+              "minne" : 16,
+              "name" : "Doro 8040"
+            },
+            "doro-phoneeasy-530x" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/phoneeasy-530x",
+              "lurPris" : 20,
+              "minne" : 1.28,
+              "name" : "Doro PhoneEasy 530X"
+            },
+            "galaxy-xcover4" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-xcover-4",
+              "lurPris" : 95,
+              "minne" : 16,
+              "name" : "Samsung Galaxy Xcover 4"
+            },
+            "huawei-mate10Pro" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/huawei-mate-10-pro",
+              "lurPris" : 190,
+              "minne" : 128,
+              "name" : "Huawei Mate 10 Pro"
+            },
+            "huawei-mate10lite" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/huawei-mate-10-lite",
+              "lurPris" : 110,
+              "minne" : 64,
+              "name" : "Huawei Mate 10 Lite"
+            },
+            "huawei-p20-lite" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/huawei-p20-lite",
+              "lurPris" : 100,
+              "minne" : 64,
+              "name" : "Huawei P20 Lite 64GB"
+            },
+            "huawei-p20-pro128" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/huawei-p20-pro",
+              "lurPris" : 260,
+              "minne" : 128,
+              "name" : "Huawei P20 Pro 128GB"
+            },
+            "moto-g6-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/moto-g6+",
+              "lurPris" : 80,
+              "minne" : 64,
+              "name" : "Moto G6 Plus"
+            },
+            "oneplus-5t" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/oneplus-5t",
+              "lurPris" : 200,
+              "minne" : 128,
+              "name" : "OnePlus 5T"
+            },
+            "oneplus-6" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/oneplus-6",
+              "lurPris" : 180,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 230,
+                "minne" : 256
+              },
+              "name" : "OnePlus 6"
+            },
+            "samsung-galaxy-note8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-note8",
+              "lurPris" : 370,
+              "minne" : 64,
+              "name" : "Samsung Galaxy Note8"
+            },
+            "samsung-galaxy-s7" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-s7",
+              "lurPris" : 200,
+              "minne" : 32,
+              "name" : "Samsung Galaxy S7"
+            },
+            "samsung-galaxy-s8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-s8",
+              "lurPris" : 250,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8"
+            },
+            "samsung-galaxy-s8+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-s8+",
+              "lurPris" : 310,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8+"
+            },
+            "samsung-galaxy-s9" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-s9",
+              "lurPris" : 300,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9"
+            },
+            "samsung-galaxy-s9+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-s9+",
+              "lurPris" : 350,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 400,
+                "minne" : 256
+              },
+              "name" : "Samsung Galaxy S9+"
+            },
+            "xperia-l1" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/xperia-l1",
+              "lurPris" : 40,
+              "minne" : 16,
+              "name" : "Sony Xperia L1"
+            },
+            "xperia-xz2" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/xperia-xz2",
+              "lurPris" : 270,
+              "minne" : 64,
+              "name" : "Sony Xperia XZ2"
+            }
+          },
+          "pris" : 199
+        },
+        "b" : {
+          "beskrivning" : "Mobilnät som är bäst i test",
+          "bindTid" : 0,
+          "fordel1" : "Fri surf på sociala medier i EU/EES",
+          "gb" : 6,
+          "link" : "https://mobiljakt.nu/till/telia-abonnemang",
+          "phones" : {
+            "apple-iphone-7" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/iphone-7",
+              "lurPris" : 140,
+              "minne" : 32,
+              "minneLarge" : {
+                "lurPris" : 260,
+                "minne" : 128
+              },
+              "name" : "Apple iPhone 7"
+            },
+            "apple-iphone-8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/iphone-8",
+              "lurPris" : 260,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 360,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 8"
+            },
+            "apple-iphone-8-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/iphone-8+",
+              "lurPris" : 310,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 400,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 8 Plus"
+            },
+            "apple-iphone-se" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/iphone-se",
+              "lurPris" : 130,
+              "minne" : 32,
+              "name" : "Apple iPhone SE"
+            },
+            "apple-iphone-x" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/iphone-x",
+              "lurPris" : 360,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 480,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone X"
+            },
+            "doro-8040" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/doro-8040",
+              "lurPris" : 60,
+              "minne" : 16,
+              "name" : "Doro 8040"
+            },
+            "doro-phoneeasy-530x" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/phoneeasy-530x",
+              "lurPris" : 0,
+              "minne" : 1.28,
+              "name" : "Doro PhoneEasy 530X"
+            },
+            "galaxy-xcover4" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-xcover-4",
+              "lurPris" : 70,
+              "minne" : 16,
+              "name" : "Samsung Galaxy Xcover 4"
+            },
+            "huawei-mate10Pro" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/huawei-mate-10-pro",
+              "lurPris" : 160,
+              "minne" : 128,
+              "name" : "Huawei Mate 10 Pro"
+            },
+            "huawei-mate10lite" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/huawei-mate-10-lite",
+              "lurPris" : 90,
+              "minne" : 64,
+              "name" : "Huawei Mate 10 Lite"
+            },
+            "huawei-p20-lite" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/huawei-p20-lite",
+              "lurPris" : 60,
+              "minne" : 64,
+              "name" : "Huawei P20 Lite 64GB"
+            },
+            "huawei-p20-pro128" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/huawei-p20-pro",
+              "lurPris" : 210,
+              "minne" : 128,
+              "name" : "Huawei P20 Pro 128GB"
+            },
+            "moto-g6-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/moto-g6+",
+              "lurPris" : 60,
+              "minne" : 64,
+              "name" : "Moto G6 Plus"
+            },
+            "oneplus-5t" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/oneplus-5t",
+              "lurPris" : 160,
+              "minne" : 128,
+              "name" : "OnePlus 5T"
+            },
+            "oneplus-6" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/oneplus-6",
+              "lurPris" : 140,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 190,
+                "minne" : 256
+              },
+              "name" : "OnePlus 6"
+            },
+            "samsung-galaxy-note8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-note8",
+              "lurPris" : 340,
+              "minne" : 64,
+              "name" : "Samsung Galaxy Note8"
+            },
+            "samsung-galaxy-s7" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-s7",
+              "lurPris" : 160,
+              "minne" : 32,
+              "name" : "Samsung Galaxy S7"
+            },
+            "samsung-galaxy-s8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-s8",
+              "lurPris" : 210,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8"
+            },
+            "samsung-galaxy-s8+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-s8+",
+              "lurPris" : 270,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8+"
+            },
+            "samsung-galaxy-s9" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-s9",
+              "lurPris" : 260,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9"
+            },
+            "samsung-galaxy-s9+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-s9+",
+              "lurPris" : 310,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 360,
+                "minne" : 256
+              },
+              "name" : "Samsung Galaxy S9+"
+            },
+            "xperia-l1" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/xperia-l1",
+              "lurPris" : 0,
+              "minne" : 16,
+              "name" : "Sony Xperia L1"
+            },
+            "xperia-xz2" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/xperia-xz2",
+              "lurPris" : 240,
+              "minne" : 64,
+              "name" : "Sony Xperia XZ2"
+            }
+          },
+          "pris" : 339
+        },
+        "c" : {
+          "beskrivning" : "Mobilnät som är bäst i test",
+          "bindTid" : 0,
+          "fordel1" : "Fri surf på sociala medier i EU/EES",
+          "gb" : 20,
+          "link" : "https://mobiljakt.nu/till/telia-abonnemang",
+          "phones" : {
+            "apple-iphone-7" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/iphone-7",
+              "lurPris" : 100,
+              "minne" : 32,
+              "minneLarge" : {
+                "lurPris" : 210,
+                "minne" : 128
+              },
+              "name" : "Apple iPhone 7"
+            },
+            "apple-iphone-8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/iphone-8",
+              "lurPris" : 210,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 310,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 8"
+            },
+            "apple-iphone-8-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/iphone-8+",
+              "lurPris" : 260,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 360,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 8 Plus"
+            },
+            "apple-iphone-se" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/iphone-se",
+              "lurPris" : 90,
+              "minne" : 32,
+              "name" : "Apple iPhone SE"
+            },
+            "apple-iphone-x" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/iphone-x",
+              "lurPris" : 310,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 430,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone X"
+            },
+            "doro-8040" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/doro-8040",
+              "lurPris" : 34,
+              "minne" : 16,
+              "name" : "Doro 8040"
+            },
+            "doro-phoneeasy-530x" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/phoneeasy-530x",
+              "lurPris" : 0,
+              "minne" : 1.28,
+              "name" : "Doro PhoneEasy 530X"
+            },
+            "galaxy-xcover4" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-xcover-4",
+              "lurPris" : 46,
+              "minne" : 16,
+              "name" : "Samsung Galaxy Xcover 4"
+            },
+            "huawei-mate10Pro" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/huawei-mate-10-pro",
+              "lurPris" : 110,
+              "minne" : 128,
+              "name" : "Huawei Mate 10 Pro"
+            },
+            "huawei-mate10lite" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/huawei-mate-10-lite",
+              "lurPris" : 60,
+              "minne" : 64,
+              "name" : "Huawei Mate 10 Lite"
+            },
+            "huawei-p20-lite" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/huawei-p20-lite",
+              "lurPris" : 20,
+              "minne" : 64,
+              "name" : "Huawei P20 Lite 64GB"
+            },
+            "huawei-p20-pro128" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/huawei-p20-pro",
+              "lurPris" : 160,
+              "minne" : 128,
+              "name" : "Huawei P20 Pro 128GB"
+            },
+            "moto-g6-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/moto-g6+",
+              "lurPris" : 40,
+              "minne" : 64,
+              "name" : "Moto G6 Plus"
+            },
+            "oneplus-5t" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/oneplus-5t",
+              "lurPris" : 110,
+              "minne" : 128,
+              "name" : "OnePlus 5T"
+            },
+            "oneplus-6" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/oneplus-6",
+              "lurPris" : 90,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 140,
+                "minne" : 256
+              },
+              "name" : "OnePlus 6"
+            },
+            "samsung-galaxy-note8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-note8",
+              "lurPris" : 300,
+              "minne" : 64,
+              "name" : "Samsung Galaxy Note8"
+            },
+            "samsung-galaxy-s7" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-s7",
+              "lurPris" : 120,
+              "minne" : 32,
+              "name" : "Samsung Galaxy S7"
+            },
+            "samsung-galaxy-s8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-s8",
+              "lurPris" : 160,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8"
+            },
+            "samsung-galaxy-s8+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-s8+",
+              "lurPris" : 220,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8+"
+            },
+            "samsung-galaxy-s9" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-s9",
+              "lurPris" : 210,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9"
+            },
+            "samsung-galaxy-s9+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-s9+",
+              "lurPris" : 260,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 310,
+                "minne" : 256
+              },
+              "name" : "Samsung Galaxy S9+"
+            },
+            "xperia-l1" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/xperia-l1",
+              "lurPris" : 0,
+              "minne" : 16,
+              "name" : "Sony Xperia L1"
+            },
+            "xperia-xz2" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/xperia-xz2",
+              "lurPris" : 190,
+              "minne" : 64,
+              "name" : "Sony Xperia XZ2"
+            }
+          },
+          "pris" : 439
+        },
+        "d" : {
+          "beskrivning" : "Mobilnät som är bäst i test",
+          "bindTid" : 0,
+          "fordel1" : "Fri surf på sociala medier i EU/EES",
+          "gb" : 40,
+          "link" : "https://mobiljakt.nu/till/telia-abonnemang",
+          "phones" : {
+            "apple-iphone-7" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/iphone-7",
+              "lurPris" : 50,
+              "minne" : 32,
+              "minneLarge" : {
+                "lurPris" : 160,
+                "minne" : 128
+              },
+              "name" : "Apple iPhone 7"
+            },
+            "apple-iphone-8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/iphone-8",
+              "lurPris" : 160,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 260,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 8"
+            },
+            "apple-iphone-8-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/iphone-8+",
+              "lurPris" : 210,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 310,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 8 Plus"
+            },
+            "apple-iphone-se" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/iphone-se",
+              "lurPris" : 40,
+              "minne" : 32,
+              "name" : "Apple iPhone SE"
+            },
+            "apple-iphone-x" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/iphone-x",
+              "lurPris" : 270,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 390,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone X"
+            },
+            "doro-8040" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/doro-8040",
+              "lurPris" : 0,
+              "minne" : 16,
+              "name" : "Doro 8040"
+            },
+            "doro-phoneeasy-530x" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/phoneeasy-530x",
+              "lurPris" : 0,
+              "minne" : 1.28,
+              "name" : "Doro PhoneEasy 530X"
+            },
+            "galaxy-xcover4" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-xcover-4",
+              "lurPris" : 0,
+              "minne" : 16,
+              "name" : "Samsung Galaxy Xcover 4"
+            },
+            "huawei-mate10Pro" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/huawei-mate-10-pro",
+              "lurPris" : 60,
+              "minne" : 128,
+              "name" : "Huawei Mate 10 Pro"
+            },
+            "huawei-mate10lite" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/huawei-mate-10-lite",
+              "lurPris" : 10,
+              "minne" : 64,
+              "name" : "Huawei Mate 10 Lite"
+            },
+            "huawei-p20-lite" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/huawei-p20-lite",
+              "lurPris" : 0,
+              "minne" : 64,
+              "name" : "Huawei P20 Lite 64GB"
+            },
+            "huawei-p20-pro128" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/huawei-p20-pro",
+              "lurPris" : 110,
+              "minne" : 128,
+              "name" : "Huawei P20 Pro 128GB"
+            },
+            "moto-g6-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/moto-g6+",
+              "lurPris" : 0,
+              "minne" : 64,
+              "name" : "Moto G6 Plus"
+            },
+            "oneplus-5t" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/oneplus-5t",
+              "lurPris" : 60,
+              "minne" : 128,
+              "name" : "OnePlus 5T"
+            },
+            "oneplus-6" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/oneplus-6",
+              "lurPris" : 40,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 90,
+                "minne" : 256
+              },
+              "name" : "OnePlus 6"
+            },
+            "samsung-galaxy-note8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-note8",
+              "lurPris" : 250,
+              "minne" : 64,
+              "name" : "Samsung Galaxy Note8"
+            },
+            "samsung-galaxy-s7" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-s7",
+              "lurPris" : 70,
+              "minne" : 32,
+              "name" : "Samsung Galaxy S7"
+            },
+            "samsung-galaxy-s8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-s8",
+              "lurPris" : 110,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8"
+            },
+            "samsung-galaxy-s8+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-s8+",
+              "lurPris" : 170,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8+"
+            },
+            "samsung-galaxy-s9" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-s9",
+              "lurPris" : 160,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9"
+            },
+            "samsung-galaxy-s9+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-s9+",
+              "lurPris" : 210,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 260,
+                "minne" : 256
+              },
+              "name" : "Samsung Galaxy S9+"
+            },
+            "xperia-l1" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/xperia-l1",
+              "lurPris" : 0,
+              "minne" : 16,
+              "name" : "Sony Xperia L1"
+            },
+            "xperia-xz2" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/xperia-xz2",
+              "lurPris" : 140,
+              "minne" : 64,
+              "name" : "Sony Xperia XZ2"
+            }
+          },
+          "pris" : 539
+        },
+        "e" : {
+          "beskrivning" : "Mobilnät som är bäst i test",
+          "bindTid" : 0,
+          "fordel1" : "Fri surf på sociala medier i EU/EES",
+          "gb" : 60,
+          "link" : "https://mobiljakt.nu/till/telia-abonnemang",
+          "phones" : {
+            "apple-iphone-7" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/iphone-7",
+              "lurPris" : 0,
+              "minne" : 32,
+              "minneLarge" : {
+                "lurPris" : 110,
+                "minne" : 128
+              },
+              "name" : "Apple iPhone 7"
+            },
+            "apple-iphone-8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/iphone-8",
+              "lurPris" : 110,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 210,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 8"
+            },
+            "apple-iphone-8-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/iphone-8+",
+              "lurPris" : 160,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 260,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 8 Plus"
+            },
+            "apple-iphone-se" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/iphone-se",
+              "lurPris" : 0,
+              "minne" : 32,
+              "name" : "Apple iPhone SE"
+            },
+            "apple-iphone-x" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/iphone-x",
+              "lurPris" : 220,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 340,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone X"
+            },
+            "doro-8040" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/doro-8040",
+              "lurPris" : 0,
+              "minne" : 16,
+              "name" : "Doro 8040"
+            },
+            "doro-phoneeasy-530x" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/phoneeasy-530x",
+              "lurPris" : 0,
+              "minne" : 1.28,
+              "name" : "Doro PhoneEasy 530X"
+            },
+            "galaxy-xcover4" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-xcover-4",
+              "lurPris" : 0,
+              "minne" : 16,
+              "name" : "Samsung Galaxy Xcover 4"
+            },
+            "huawei-mate10Pro" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/huawei-mate-10-pro",
+              "lurPris" : 0,
+              "minne" : 128,
+              "name" : "Huawei Mate 10 Pro"
+            },
+            "huawei-mate10lite" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/huawei-mate-10-lite",
+              "lurPris" : 0,
+              "minne" : 64,
+              "name" : "Huawei Mate 10 Lite"
+            },
+            "huawei-p20-lite" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/huawei-p20-lite",
+              "lurPris" : 0,
+              "minne" : 64,
+              "name" : "Huawei P20 Lite 64GB"
+            },
+            "huawei-p20-pro128" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/huawei-p20-pro",
+              "lurPris" : 60,
+              "minne" : 128,
+              "name" : "Huawei P20 Pro 128GB"
+            },
+            "moto-g6-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/moto-g6+",
+              "lurPris" : 0,
+              "minne" : 64,
+              "name" : "Moto G6 Plus"
+            },
+            "oneplus-5t" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/oneplus-5t",
+              "lurPris" : 10,
+              "minne" : 128,
+              "name" : "OnePlus 5T"
+            },
+            "oneplus-6" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/oneplus-6",
+              "lurPris" : 0,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 40,
+                "minne" : 256
+              },
+              "name" : "OnePlus 6"
+            },
+            "samsung-galaxy-note8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-note8",
+              "lurPris" : 200,
+              "minne" : 64,
+              "name" : "Samsung Galaxy Note8"
+            },
+            "samsung-galaxy-s7" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-s7",
+              "lurPris" : 20,
+              "minne" : 32,
+              "name" : "Samsung Galaxy S7"
+            },
+            "samsung-galaxy-s8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-s8",
+              "lurPris" : 60,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8"
+            },
+            "samsung-galaxy-s8+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-s8+",
+              "lurPris" : 120,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8+"
+            },
+            "samsung-galaxy-s9" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-s9",
+              "lurPris" : 110,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9"
+            },
+            "samsung-galaxy-s9+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-s9+",
+              "lurPris" : 160,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 210,
+                "minne" : 256
+              },
+              "name" : "Samsung Galaxy S9+"
+            },
+            "xperia-l1" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/xperia-l1",
+              "lurPris" : 0,
+              "minne" : 16,
+              "name" : "Sony Xperia L1"
+            },
+            "xperia-xz2" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/xperia-xz2",
+              "lurPris" : 90,
+              "minne" : 64,
+              "name" : "Sony Xperia XZ2"
+            }
+          },
+          "pris" : 639
+        },
+        "f" : {
+          "beskrivning" : "Mobilnät som är bäst i test",
+          "bindTid" : 0,
+          "fordel1" : "Fri surf på sociala medier i EU/EES",
+          "gb" : 100,
+          "link" : "https://mobiljakt.nu/till/telia-abonnemang",
+          "phones" : {
+            "apple-iphone-7" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/iphone-7",
+              "lurPris" : 0,
+              "minne" : 32,
+              "minneLarge" : {
+                "lurPris" : 60,
+                "minne" : 128
+              },
+              "name" : "Apple iPhone 7"
+            },
+            "apple-iphone-8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/iphone-8",
+              "lurPris" : 60,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 160,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 8"
+            },
+            "apple-iphone-8-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/iphone-8+",
+              "lurPris" : 110,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 400,
+                "minne" : 210
+              },
+              "name" : "Apple iPhone 8 Plus"
+            },
+            "apple-iphone-se" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/iphone-se",
+              "lurPris" : 0,
+              "minne" : 32,
+              "name" : "Apple iPhone SE"
+            },
+            "apple-iphone-x" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/iphone-x",
+              "lurPris" : 170,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 290,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone X"
+            },
+            "doro-8040" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/doro-8040",
+              "lurPris" : 0,
+              "minne" : 16,
+              "name" : "Doro 8040"
+            },
+            "doro-phoneeasy-530x" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/phoneeasy-530x",
+              "lurPris" : 0,
+              "minne" : 1.28,
+              "name" : "Doro PhoneEasy 530X"
+            },
+            "galaxy-xcover4" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-xcover-4",
+              "lurPris" : 0,
+              "minne" : 16,
+              "name" : "Samsung Galaxy Xcover 4"
+            },
+            "huawei-mate10Pro" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/huawei-mate-10-pro",
+              "lurPris" : 0,
+              "minne" : 128,
+              "name" : "Huawei Mate 10 Pro"
+            },
+            "huawei-mate10lite" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/huawei-mate-10-lite",
+              "lurPris" : 110,
+              "minne" : 64,
+              "name" : "Huawei Mate 10 Lite"
+            },
+            "huawei-p20-lite" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/huawei-p20-lite",
+              "lurPris" : 0,
+              "minne" : 64,
+              "name" : "Huawei P20 Lite 64GB"
+            },
+            "huawei-p20-pro128" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/huawei-p20-pro",
+              "lurPris" : 10,
+              "minne" : 128,
+              "name" : "Huawei P20 Pro 128GB"
+            },
+            "moto-g6-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/moto-g6+",
+              "lurPris" : 0,
+              "minne" : 64,
+              "name" : "Moto G6 Plus"
+            },
+            "oneplus-5t" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/oneplus-5t",
+              "lurPris" : 0,
+              "minne" : 128,
+              "name" : "OnePlus 5T"
+            },
+            "oneplus-6" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/oneplus-6",
+              "lurPris" : 0,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 0,
+                "minne" : 256
+              },
+              "name" : "OnePlus 6"
+            },
+            "samsung-galaxy-note8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-note8",
+              "lurPris" : 150,
+              "minne" : 64,
+              "name" : "Samsung Galaxy Note8"
+            },
+            "samsung-galaxy-s7" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-s7",
+              "lurPris" : 0,
+              "minne" : 32,
+              "name" : "Samsung Galaxy S7"
+            },
+            "samsung-galaxy-s8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-s8",
+              "lurPris" : 10,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8"
+            },
+            "samsung-galaxy-s8+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-s8+",
+              "lurPris" : 70,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8+"
+            },
+            "samsung-galaxy-s9" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-s9",
+              "lurPris" : 60,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9"
+            },
+            "samsung-galaxy-s9+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/galaxy-s9+",
+              "lurPris" : 110,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 160,
+                "minne" : 256
+              },
+              "name" : "Samsung Galaxy S9+"
+            },
+            "xperia-l1" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/xperia-l1",
+              "lurPris" : 0,
+              "minne" : 16,
+              "name" : "Sony Xperia L1"
+            },
+            "xperia-xz2" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/telia/xperia-xz2",
+              "lurPris" : 40,
+              "minne" : 64,
+              "name" : "Sony Xperia XZ2"
+            }
+          },
+          "pris" : 739
+        }
+      },
+      "corp" : "Telia",
+      "img" : "https://mobiljakt.nu/images/telia.png",
+      "name" : "Telia Surf"
+    },
+    "tre" : {
+      "abb" : {
+        "a" : {
+          "beskrivning" : "Surfa i hela EU",
+          "bind12" : {
+            "bindTid" : 12,
+            "gb" : 4,
+            "pris" : 149
+          },
+          "bindTid" : 0,
+          "fordel1" : "100 samtalsmin. SMS och MMS i Sverige",
+          "gb" : 2,
+          "link" : "https://mobiljakt.nu/till/tre-abonnemang",
+          "phones" : {
+            "apple-iphone-7" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/iphone-7",
+              "lurPris" : 250,
+              "minne" : 32,
+              "minneLarge" : {
+                "lurPris" : 0,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 7"
+            },
+            "apple-iphone-8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/iphone-8",
+              "lurPris" : 300,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 380,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 8"
+            },
+            "apple-iphone-8-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/iphone-8+",
+              "lurPris" : 350,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 430,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 8 Plus"
+            },
+            "apple-iphone-se" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/iphone-se",
+              "lurPris" : 50,
+              "minne" : 32,
+              "name" : "Apple iPhone SE"
+            },
+            "apple-iphone-x" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/iphone-x",
+              "lurPris" : 450,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 520,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone X"
+            },
+            "huawei-honor-9" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/huawei-honor-9",
+              "lurPris" : 180,
+              "minne" : 64,
+              "name" : "Huawei Honor 9"
+            },
+            "huawei-mate-10-lite" : {
+              "bindTid" : 24,
+              "link" : "#",
+              "lurPris" : 50,
+              "lurPrisEx" : 150,
+              "minne" : 64,
+              "name" : "Huawei Mate 10 Lite"
+            },
+            "huawei-mate-10-pro" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/huawei-mate-10-pro",
+              "lurPris" : 230,
+              "lurPrisEx" : 310,
+              "minne" : 128,
+              "name" : "Huawei Mate 10 Pro"
+            },
+            "huawei-p20-lite-64gb" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/huawei-p20-lite",
+              "lurPris" : 150,
+              "minne" : 64,
+              "name" : "Huawei P20 Lite 64GB"
+            },
+            "huawei-p20-pro-128gb" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/huawei-p20-pro",
+              "lurPris" : 320,
+              "minne" : 128,
+              "name" : "Huawei P20 Pro 128GB"
+            },
+            "samsung-galaxy-note8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-note8",
+              "lurPris" : 410,
+              "minne" : 64,
+              "name" : "Samsung Galaxy Note8"
+            },
+            "samsung-galaxy-s7" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-s7",
+              "lurPris" : 220,
+              "minne" : 32,
+              "name" : "Samsung Galaxy S7"
+            },
+            "samsung-galaxy-s8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-s8",
+              "lurPris" : 150,
+              "lurPrisEx" : 250,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8"
+            },
+            "samsung-galaxy-s8+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-s8+",
+              "lurPris" : 300,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8+"
+            },
+            "samsung-galaxy-s9" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-s9",
+              "lurPris" : 330,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9"
+            },
+            "samsung-galaxy-s9+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-s9+",
+              "lurPris" : 400,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9+"
+            },
+            "samsung-galaxy-xcover4" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/xcover-4",
+              "lurPris" : 130,
+              "minne" : 16,
+              "name" : "Samsung Galaxy Xcover 4"
+            },
+            "sony-xperia-l1" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/xperia-l1",
+              "lurPris" : 0,
+              "minne" : 16,
+              "name" : "Sony Xperia L1"
+            },
+            "sony-xperia-xz2" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/xperia-xz2",
+              "lurPris" : 300,
+              "minne" : 64,
+              "name" : "Sony Xperia XZ2"
+            }
+          },
+          "pris" : 179
+        },
+        "b" : {
+          "beskrivning" : "Surfa i hela EU",
+          "bind12" : {
+            "bindTid" : 12,
+            "gb" : 10,
+            "pris" : 199
+          },
+          "bindTid" : 0,
+          "fordel1" : "Obegränsade samtal, SMS/MMS i Sverige",
+          "gb" : 5,
+          "link" : "https://mobiljakt.nu/till/tre-abonnemang",
+          "phones" : {
+            "apple-iphone-7" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/iphone-7",
+              "lurPris" : 230,
+              "minne" : 32,
+              "minneLarge" : {
+                "lurPris" : 0,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 7"
+            },
+            "apple-iphone-8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/iphone-8",
+              "lurPris" : 280,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 360,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 8"
+            },
+            "apple-iphone-8-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/iphone-8+",
+              "lurPris" : 330,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 410,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 8 Plus"
+            },
+            "apple-iphone-se" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/iphone-se",
+              "lurPris" : 50,
+              "minne" : 32,
+              "name" : "Apple iPhone SE"
+            },
+            "apple-iphone-x" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/iphone-x",
+              "lurPris" : 430,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 500,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone X"
+            },
+            "huawei-honor-9" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/huawei-honor-9",
+              "lurPris" : 160,
+              "minne" : 64,
+              "name" : "Huawei Honor 9"
+            },
+            "huawei-mate-10-lite" : {
+              "bindTid" : 24,
+              "link" : "#",
+              "lurPris" : 30,
+              "lurPrisEx" : 130,
+              "minne" : 64,
+              "name" : "Huawei Mate 10 Lite"
+            },
+            "huawei-mate-10-pro" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/huawei-mate-10-pro",
+              "lurPris" : 200,
+              "lurPrisEx" : 290,
+              "minne" : 128,
+              "name" : "Huawei Mate 10 Pro"
+            },
+            "huawei-p20-lite-64gb" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/huawei-p20-lite",
+              "lurPris" : 130,
+              "minne" : 64,
+              "name" : "Huawei P20 Lite 64GB"
+            },
+            "huawei-p20-pro-128gb" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/huawei-p20-pro",
+              "lurPris" : 300,
+              "minne" : 128,
+              "name" : "Huawei P20 Pro 128GB"
+            },
+            "samsung-galaxy-note8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-note8",
+              "lurPris" : 390,
+              "minne" : 64,
+              "name" : "Samsung Galaxy Note8"
+            },
+            "samsung-galaxy-s7" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-s7",
+              "lurPris" : 200,
+              "minne" : 32,
+              "name" : "Samsung Galaxy S7"
+            },
+            "samsung-galaxy-s8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-s8",
+              "lurPris" : 150,
+              "lurPrisEx" : 230,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8"
+            },
+            "samsung-galaxy-s8+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-s8+",
+              "lurPris" : 280,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8+"
+            },
+            "samsung-galaxy-s9" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-s9",
+              "lurPris" : 300,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9"
+            },
+            "samsung-galaxy-s9+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-s9+",
+              "lurPris" : 370,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9+"
+            },
+            "samsung-galaxy-xcover4" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/xcover-4",
+              "lurPris" : 110,
+              "minne" : 16,
+              "name" : "Samsung Galaxy Xcover 4"
+            },
+            "sony-xperia-l1" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/xperia-l1",
+              "lurPris" : 0,
+              "minne" : 16,
+              "name" : "Sony Xperia L1"
+            },
+            "sony-xperia-xz2" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/xperia-xz2",
+              "lurPris" : 280,
+              "minne" : 64,
+              "name" : "Sony Xperia XZ2"
+            }
+          },
+          "pris" : 249
+        },
+        "c" : {
+          "beskrivning" : "Surfa i hela EU",
+          "bind12" : {
+            "bindTid" : 12,
+            "gb" : 20,
+            "pris" : 349
+          },
+          "bindTid" : 0,
+          "fordel1" : "Obegränsade samtal, SMS/MMS i Sverige",
+          "gb" : 10,
+          "link" : "https://mobiljakt.nu/till/tre-abonnemang",
+          "phones" : {
+            "apple-iphone-7" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/iphone-7",
+              "lurPris" : 130,
+              "minne" : 32,
+              "minneLarge" : {
+                "lurPris" : 0,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 7"
+            },
+            "apple-iphone-8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/iphone-8",
+              "lurPris" : 260,
+              "minne" : 256,
+              "minneLarge" : {
+                "lurPris" : 260,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 8"
+            },
+            "apple-iphone-8-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/iphone-8+",
+              "lurPris" : 230,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 310,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 8 Plus"
+            },
+            "apple-iphone-se" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/iphone-se",
+              "lurPris" : 0,
+              "minne" : 32,
+              "name" : "Apple iPhone SE"
+            },
+            "apple-iphone-x" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/iphone-x",
+              "lurPris" : 330,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 400,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone X"
+            },
+            "huawei-honor-9" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/huawei-honor-9",
+              "lurPris" : 60,
+              "minne" : 64,
+              "name" : "Huawei Honor 9"
+            },
+            "huawei-mate-10-lite" : {
+              "bindTid" : 24,
+              "link" : "#",
+              "lurPris" : 0,
+              "lurPrisEx" : 30,
+              "minne" : 64,
+              "name" : "Huawei Mate 10 Lite"
+            },
+            "huawei-mate-10-pro" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/huawei-mate-10-pro",
+              "lurPris" : 100,
+              "lurPrisEx" : 190,
+              "minne" : 128,
+              "name" : "Huawei Mate 10 Pro"
+            },
+            "huawei-p20-lite-64gb" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/huawei-p20-lite",
+              "lurPris" : 30,
+              "minne" : 64,
+              "name" : "Huawei P20 Lite 64GB"
+            },
+            "huawei-p20-pro-128gb" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/huawei-p20-pro",
+              "lurPris" : 200,
+              "minne" : 128,
+              "name" : "Huawei P20 Pro 128GB"
+            },
+            "samsung-galaxy-note8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-note8",
+              "lurPris" : 290,
+              "minne" : 64,
+              "name" : "Samsung Galaxy Note8"
+            },
+            "samsung-galaxy-s7" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-s7",
+              "lurPris" : 100,
+              "minne" : 32,
+              "name" : "Samsung Galaxy S7"
+            },
+            "samsung-galaxy-s8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-s8",
+              "lurPris" : 100,
+              "lurPrisEx" : 130,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8"
+            },
+            "samsung-galaxy-s8+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-s8+",
+              "lurPris" : 180,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8+"
+            },
+            "samsung-galaxy-s9" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-s9",
+              "lurPris" : 200,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9"
+            },
+            "samsung-galaxy-s9+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-s9+",
+              "lurPris" : 270,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9+"
+            },
+            "samsung-galaxy-xcover4" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/xcover-4",
+              "lurPris" : 10,
+              "minne" : 16,
+              "name" : "Samsung Galaxy Xcover 4"
+            },
+            "sony-xperia-l1" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/xperia-l1",
+              "lurPris" : 0,
+              "minne" : 16,
+              "name" : "Sony Xperia L1"
+            },
+            "sony-xperia-xz2" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/xperia-xz2",
+              "lurPris" : 180,
+              "minne" : 64,
+              "name" : "Sony Xperia XZ2"
+            }
+          },
+          "pris" : 399
+        },
+        "d" : {
+          "beskrivning" : "Surfa i hela EU",
+          "bind12" : {
+            "bindTid" : 12,
+            "gb" : 50,
+            "pris" : 399
+          },
+          "bindTid" : 0,
+          "fordel1" : "Obegränsade samtal, SMS/MMS i Sverige",
+          "gb" : 25,
+          "link" : "https://mobiljakt.nu/till/tre-abonnemang",
+          "phones" : {
+            "apple-iphone-7" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/iphone-7",
+              "lurPris" : 130,
+              "minne" : 32,
+              "minneLarge" : {
+                "lurPris" : 0,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 7"
+            },
+            "apple-iphone-8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/iphone-8",
+              "lurPris" : 260,
+              "minne" : 256,
+              "minneLarge" : {
+                "lurPris" : 260,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 8"
+            },
+            "apple-iphone-8-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/iphone-8+",
+              "lurPris" : 230,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 310,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 8 Plus"
+            },
+            "apple-iphone-se" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/iphone-se",
+              "lurPris" : 0,
+              "minne" : 32,
+              "name" : "Apple iPhone SE"
+            },
+            "apple-iphone-x" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/iphone-x",
+              "lurPris" : 330,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 400,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone X"
+            },
+            "huawei-honor-9" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/huawei-honor-9",
+              "lurPris" : 60,
+              "minne" : 64,
+              "name" : "Huawei Honor 9"
+            },
+            "huawei-mate-10-lite" : {
+              "bindTid" : 24,
+              "link" : "#",
+              "lurPris" : 0,
+              "lurPrisEx" : 30,
+              "minne" : 64,
+              "name" : "Huawei Mate 10 Lite"
+            },
+            "huawei-mate-10-pro" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/huawei-mate-10-pro",
+              "lurPris" : 100,
+              "lurPrisEx" : 190,
+              "minne" : 128,
+              "name" : "Huawei Mate 10 Pro"
+            },
+            "huawei-p20-lite-64gb" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/huawei-p20-lite",
+              "lurPris" : 30,
+              "minne" : 64,
+              "name" : "Huawei P20 Lite 64GB"
+            },
+            "huawei-p20-pro-128gb" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/huawei-p20-pro",
+              "lurPris" : 200,
+              "minne" : 128,
+              "name" : "Huawei P20 Pro 128GB"
+            },
+            "samsung-galaxy-note8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-note8",
+              "lurPris" : 290,
+              "minne" : 64,
+              "name" : "Samsung Galaxy Note8"
+            },
+            "samsung-galaxy-s7" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-s7",
+              "lurPris" : 100,
+              "minne" : 32,
+              "name" : "Samsung Galaxy S7"
+            },
+            "samsung-galaxy-s8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-s8",
+              "lurPris" : 100,
+              "lurPrisEx" : 130,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8"
+            },
+            "samsung-galaxy-s8+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-s8+",
+              "lurPris" : 180,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8+"
+            },
+            "samsung-galaxy-s9" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-s9",
+              "lurPris" : 200,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9"
+            },
+            "samsung-galaxy-s9+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-s9+",
+              "lurPris" : 270,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9+"
+            },
+            "samsung-galaxy-xcover4" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/xcover-4",
+              "lurPris" : 10,
+              "minne" : 16,
+              "name" : "Samsung Galaxy Xcover 4"
+            },
+            "sony-xperia-l1" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/xperia-l1",
+              "lurPris" : 0,
+              "minne" : 16,
+              "name" : "Sony Xperia L1"
+            },
+            "sony-xperia-xz2" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/xperia-xz2",
+              "lurPris" : 180,
+              "minne" : 64,
+              "name" : "Sony Xperia XZ2"
+            }
+          },
+          "pris" : 449
+        },
+        "e" : {
+          "beskrivning" : "Surfa i hela EU",
+          "bind12" : {
+            "bindTid" : 12,
+            "gb" : 100,
+            "pris" : 499
+          },
+          "bindTid" : 0,
+          "fordel1" : "Obegränsade samtal, SMS/MMS i Sverige",
+          "gb" : 50,
+          "link" : "https://mobiljakt.nu/till/tre-abonnemang",
+          "phones" : {
+            "apple-iphone-7" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/iphone-7",
+              "lurPris" : 130,
+              "minne" : 32,
+              "minneLarge" : {
+                "lurPris" : 0,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 7"
+            },
+            "apple-iphone-8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/iphone-8",
+              "lurPris" : 260,
+              "minne" : 256,
+              "minneLarge" : {
+                "lurPris" : 260,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 8"
+            },
+            "apple-iphone-8-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/iphone-8+",
+              "lurPris" : 230,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 310,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 8 Plus"
+            },
+            "apple-iphone-se" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/iphone-se",
+              "lurPris" : 0,
+              "minne" : 32,
+              "name" : "Apple iPhone SE"
+            },
+            "apple-iphone-x" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/iphone-x",
+              "lurPris" : 330,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 400,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone X"
+            },
+            "huawei-honor-9" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/huawei-honor-9",
+              "lurPris" : 60,
+              "minne" : 64,
+              "name" : "Huawei Honor 9"
+            },
+            "huawei-mate-10-lite" : {
+              "bindTid" : 24,
+              "link" : "#",
+              "lurPris" : 0,
+              "lurPrisEx" : 30,
+              "minne" : 64,
+              "name" : "Huawei Mate 10 Lite"
+            },
+            "huawei-mate-10-pro" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/huawei-mate-10-pro",
+              "lurPris" : 100,
+              "lurPrisEx" : 190,
+              "minne" : 128,
+              "name" : "Huawei Mate 10 Pro"
+            },
+            "huawei-p20-lite-64gb" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/huawei-p20-lite",
+              "lurPris" : 30,
+              "minne" : 64,
+              "name" : "Huawei P20 Lite 64GB"
+            },
+            "huawei-p20-pro-128gb" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/huawei-p20-pro",
+              "lurPris" : 200,
+              "minne" : 128,
+              "name" : "Huawei P20 Pro 128GB"
+            },
+            "samsung-galaxy-note8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-note8",
+              "lurPris" : 290,
+              "minne" : 64,
+              "name" : "Samsung Galaxy Note8"
+            },
+            "samsung-galaxy-s7" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-s7",
+              "lurPris" : 100,
+              "minne" : 32,
+              "name" : "Samsung Galaxy S7"
+            },
+            "samsung-galaxy-s8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-s8",
+              "lurPris" : 100,
+              "lurPrisEx" : 130,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8"
+            },
+            "samsung-galaxy-s8+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-s8+",
+              "lurPris" : 180,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8+"
+            },
+            "samsung-galaxy-s9" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-s9",
+              "lurPris" : 200,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9"
+            },
+            "samsung-galaxy-s9+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-s9+",
+              "lurPris" : 270,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9+"
+            },
+            "samsung-galaxy-xcover4" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/xcover-4",
+              "lurPris" : 10,
+              "minne" : 16,
+              "name" : "Samsung Galaxy Xcover 4"
+            },
+            "sony-xperia-l1" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/xperia-l1",
+              "lurPris" : 0,
+              "minne" : 16,
+              "name" : "Sony Xperia L1"
+            },
+            "sony-xperia-xz2" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/xperia-xz2",
+              "lurPris" : 180,
+              "minne" : 64,
+              "name" : "Sony Xperia XZ2"
+            }
+          },
+          "pris" : 549
+        },
+        "f" : {
+          "beskrivning" : "Obegränsad surf i Sverige. 60 GB/MÅN. inom EU",
+          "bind12" : {
+            "bindTid" : 12,
+            "pris" : 599
+          },
+          "bindTid" : 0,
+          "fordel1" : "Obegränsade samtal, SMS/MMS i Sverige",
+          "gb" : "Obegränsat",
+          "link" : "https://mobiljakt.nu/till/tre-abonnemang",
+          "phones" : {
+            "apple-iphone-7" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/iphone-7",
+              "lurPris" : 130,
+              "minne" : 32,
+              "minneLarge" : {
+                "lurPris" : 0,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 7"
+            },
+            "apple-iphone-8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/iphone-8",
+              "lurPris" : 0,
+              "lurPrisEx" : 180,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 260,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 8"
+            },
+            "apple-iphone-8-plus" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/iphone-8+",
+              "lurPris" : 230,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 310,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone 8 Plus"
+            },
+            "apple-iphone-se" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/iphone-se",
+              "lurPris" : 0,
+              "minne" : 32,
+              "name" : "Apple iPhone SE"
+            },
+            "apple-iphone-x" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/iphone-x",
+              "lurPris" : 330,
+              "minne" : 64,
+              "minneLarge" : {
+                "lurPris" : 400,
+                "minne" : 256
+              },
+              "name" : "Apple iPhone X"
+            },
+            "huawei-honor-9" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/huawei-honor-9",
+              "lurPris" : 60,
+              "minne" : 64,
+              "name" : "Huawei Honor 9"
+            },
+            "huawei-mate-10-lite" : {
+              "bindTid" : 24,
+              "link" : "#",
+              "lurPris" : 0,
+              "lurPrisEx" : 30,
+              "minne" : 64,
+              "name" : "Huawei Mate 10 Lite"
+            },
+            "huawei-mate-10-pro" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/huawei-mate-10-pro",
+              "lurPris" : 100,
+              "lurPrisEx" : 190,
+              "minne" : 128,
+              "name" : "Huawei Mate 10 Pro"
+            },
+            "huawei-p20-lite-64gb" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/huawei-p20-lite",
+              "lurPris" : 30,
+              "minne" : 64,
+              "name" : "Huawei P20 Lite 64GB"
+            },
+            "huawei-p20-pro-128gb" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/huawei-p20-pro",
+              "lurPris" : 200,
+              "minne" : 128,
+              "name" : "Huawei P20 Pro 128GB"
+            },
+            "samsung-galaxy-note8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-note8",
+              "lurPris" : 290,
+              "minne" : 64,
+              "name" : "Samsung Galaxy Note8"
+            },
+            "samsung-galaxy-s8" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-s8",
+              "lurPris" : 100,
+              "lurPrisEx" : 130,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8"
+            },
+            "samsung-galaxy-s8+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-s8+",
+              "lurPris" : 180,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S8+"
+            },
+            "samsung-galaxy-s9" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-s9",
+              "lurPris" : 200,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9"
+            },
+            "samsung-galaxy-s9+" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/galaxy-s9+",
+              "lurPris" : 270,
+              "minne" : 64,
+              "name" : "Samsung Galaxy S9+"
+            },
+            "samsung-galaxy-xcover4" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/xcover-4",
+              "lurPris" : 10,
+              "minne" : 16,
+              "name" : "Samsung Galaxy Xcover 4"
+            },
+            "sony-xperia-l1" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/xperia-l1",
+              "lurPris" : 0,
+              "minne" : 16,
+              "name" : "Sony Xperia L1"
+            },
+            "sony-xperia-xz2" : {
+              "bindTid" : 24,
+              "link" : "https://mobiljakt.nu/till/tre/xperia-xz2",
+              "lurPris" : 180,
+              "minne" : 64,
+              "name" : "Sony Xperia XZ2"
+            }
+          },
+          "pris" : 699
+        }
+      },
+      "corp" : "Tre",
+      "img" : "https://mobiljakt.nu/images/tre-logga.png",
+      "name" : "Tre Surf"
+    },
+    "vimla" : {
+      "abb" : {
+        "a" : {
+          "beskrivning" : "Använder Telenors (4G, 3G & 2G) nät",
+          "bindTid" : 0,
+          "fordel1" : "Fria samtal och mess.",
+          "gb" : 2,
+          "link" : "https://mobiljakt.nu/till/vimla-abonnemang",
+          "pris" : 100
+        },
+        "b" : {
+          "beskrivning" : "Använder Telenors (4G, 3G & 2G) nät",
+          "bindTid" : 0,
+          "fordel1" : "Fria samtal och mess",
+          "gb" : 4,
+          "link" : "https://mobiljakt.nu/till/vimla-abonnemang",
+          "pris" : 150
+        },
+        "c" : {
+          "beskrivning" : "Använder Telenors (4G, 3G & 2G) nät",
+          "bindTid" : 0,
+          "fordel1" : "Fria samtal och mess",
+          "gb" : 10,
+          "link" : "https://mobiljakt.nu/till/vimla-abonnemang",
+          "pris" : 250
+        },
+        "d" : {
+          "beskrivning" : "Använder Telenors (4G, 3G & 2G) nät",
+          "bindTid" : 0,
+          "fordel1" : "Fria samtal och mess",
+          "gb" : 25,
+          "link" : "https://mobiljakt.nu/till/vimla-abonnemang",
+          "pris" : 300
+        }
+      },
+      "corp" : "Vimla",
+      "img" : "https://mobiljakt.nu/images/vimla.png",
+      "name" : "Vimla Surf",
+      "rabatt" : {
+        "ungdom" : {
+          "b" : {
+            "beskrivning" : "Fria samtal och mess",
+            "bindTid" : 0,
+            "fordel1" : "Under 18 år",
+            "gb" : 6,
+            "link" : "https://mobiljakt.nu/till/vimla-abonnemang",
+            "name" : "Vimla Under 18",
+            "pris" : 100
+          },
+          "c" : {
+            "beskrivning" : "Fria samtal och mess",
+            "bindTid" : 0,
+            "fordel1" : "Under 18 år",
+            "gb" : 10,
+            "link" : "https://mobiljakt.nu/till/vimla-abonnemang",
+            "name" : "Vimla Under 18",
+            "pris" : 150
+          },
+          "d" : {
+            "beskrivning" : "Fria samtal och mess",
+            "bindTid" : 0,
+            "fordel1" : "Under 18 år",
+            "gb" : 25,
+            "link" : "https://mobiljakt.nu/till/vimla-abonnemang",
+            "name" : "Vimla Under 18",
+            "pris" : 200
+          }
+        }
+      }
+    }
+  },
+  "phones" : {
+    "Huawei-Mate-10-Lite" : {
+      "batteri" : "Ca 21h samtal (taltid)",
+      "checked" : false,
+      "corp" : "Huawei",
+      "fordel1" : "Stor skärm",
+      "fordel2" : "Kvalitet till lågt pris",
+      "fordel3" : "",
+      "img" : [ "https://mobiljakt.nu/images/huawei-mate-10-lite-1.png", "https://mobiljakt.nu/images/huawei-mate-10-lite-2.png", "https://mobiljakt.nu/images/huawei-mate-10-lite-3.png", "https://mobiljakt.nu/images/huawei-mate-10-lite-3.png" ],
+      "kamera" : "16 + 2 megapixlar",
+      "lagring" : "64 GB",
+      "name" : "Huawei Mate 10 Lite",
+      "operativsystem" : "Android",
+      "pop" : 7,
+      "relDate" : 201710,
+      "screen" : "5,9 tum",
+      "show" : false,
+      "skarmupplosning" : "1080 x 2160",
+      "valj" : false,
+      "vikt" : "164 g"
+    },
+    "P20-Pro-128GB" : {
+      "batteri" : "11 h 58 min (videotid)",
+      "checked" : false,
+      "corp" : "Huawei",
+      "fordel1" : "Trippelkamera",
+      "fordel2" : "Jättestarkt batteri",
+      "fordel3" : "Hög prestanda",
+      "img" : [ "https://mobiljakt.nu/images/huawei-p20-pro-1.png", "https://mobiljakt.nu/images/huawei-p20-pro-2.png", "https://mobiljakt.nu/images/huawei-p20-pro-3.png", "https://mobiljakt.nu/images/huawei-p20-pro-4.png" ],
+      "kamera" : "40 MP + 20 MP + 8 MP",
+      "lagring" : "128 GB",
+      "name" : "Huawei P20 Pro 128GB",
+      "operativsystem" : "Android",
+      "pop" : 4,
+      "relDate" : 201804,
+      "screen" : "6,1 tum",
+      "show" : false,
+      "skarmupplosning" : "1080 x 2244",
+      "valj" : false,
+      "vikt" : "180 g"
+    },
+    "apple-iphone-8-plus" : {
+      "batteri" : "5 tim 8 min (videotid)",
+      "checked" : false,
+      "corp" : "Apple",
+      "fordel1" : "Design helt i glas och aluminium",
+      "fordel2" : "Trådlös laddning",
+      "fordel3" : "",
+      "img" : [ "https://mobiljakt.nu/images/iphone-8plus-1.png", "https://mobiljakt.nu/images/iphone-8plus-2.png", "https://mobiljakt.nu/images/iphone-8plus-3.png" ],
+      "kamera" : "12 + 12 MP",
+      "lagring" : "64 GB & 256 GB",
+      "name" : "Apple iPhone 8 Plus",
+      "operativsystem" : "iOS",
+      "pop" : 7,
+      "relDate" : 201709,
+      "screen" : "5,5 tum",
+      "show" : false,
+      "skarmupplosning" : "1920 × 1080",
+      "valj" : false,
+      "vikt" : "202 gram"
+    },
+    "apple-iphone-se" : {
+      "batteri" : "14 timmar (taltid)",
+      "checked" : false,
+      "corp" : "Apple",
+      "fordel1" : "Retina skärm",
+      "fordel2" : "Medium storlek med bra prestanda",
+      "fordel3" : "",
+      "img" : [ "https://mobiljakt.nu/images/iphone-se-1.png", "https://mobiljakt.nu/images/iphone-se-2.png", "https://mobiljakt.nu/images/iphone-se-3.png", "https://mobiljakt.nu/images/iphone-se-4.png" ],
+      "kamera" : "12,0 MP",
+      "lagring" : "32 GB",
+      "name" : "Apple iPhone SE",
+      "operativsystem" : "iOS",
+      "pop" : 5,
+      "relDate" : 201603,
+      "screen" : "4,0 tum",
+      "show" : false,
+      "skarmupplosning" : "1136 x 640 pixlar",
+      "valj" : false,
+      "vikt" : "113 gram"
+    },
+    "doro-8040" : {
+      "batteri" : "15 timmar taltid",
+      "checked" : false,
+      "corp" : "Doro",
+      "fordel1" : "Inbyggd GPS",
+      "fordel2" : "Användarvänlig",
+      "fordel3" : "",
+      "img" : [ "https://mobiljakt.nu/images/doro8040-1.png", "https://mobiljakt.nu/images/doro8040-2.png", "https://mobiljakt.nu/images/doro8040-3.png" ],
+      "kamera" : "8 + 2 MP",
+      "lagring" : "128 MB",
+      "name" : "Doro 8040",
+      "operativsystem" : "Android 7.0",
+      "pop" : 0,
+      "relDate" : 201612,
+      "screen" : "4,5 tum",
+      "show" : false,
+      "skarmupplosning" : "854 x 480",
+      "valj" : false,
+      "vikt" : "160 gram"
+    },
+    "doro-phoneasy-530x" : {
+      "batteri" : "Upp till 500 timmar",
+      "checked" : false,
+      "corp" : "Doro",
+      "fordel1" : "Vattenavvisande & stöttålig",
+      "fordel2" : "Användarvänlig",
+      "fordel3" : "",
+      "img" : [ "https://mobiljakt.nu/images/phoneeasy530-1.png", "https://mobiljakt.nu/images/phoneeasy530-2.png", "https://mobiljakt.nu/images/phoneeasy530-3.png", "https://mobiljakt.nu/images/phoneeasy530-4.png" ],
+      "kamera" : "2 MP",
+      "lagring" : "128 MB",
+      "name" : "Doro PhoneEasy 530X",
+      "operativsystem" : "Android",
+      "pop" : 0,
+      "relDate" : 201607,
+      "screen" : "2,4 tum",
+      "show" : false,
+      "skarmupplosning" : "320 x 240",
+      "valj" : false,
+      "vikt" : "96 gram"
+    },
+    "galaxy-s8" : {
+      "batteri" : "8 tim 1 min (video- tid)",
+      "checked" : false,
+      "corp" : "Samsung",
+      "fordel1" : "Trådlös laddning",
+      "fordel2" : "Bra skärmupplösning",
+      "fordel3" : "Perfekt för streaming",
+      "img" : [ "https://mobiljakt.nu/images/samsungs8-1.png", "https://mobiljakt.nu/images/samsungs8-2.png", "https://mobiljakt.nu/images/samsungs8-3.png", "https://mobiljakt.nu/images/samsung8.png" ],
+      "kamera" : "12 megapixlar",
+      "lagring" : "64 GB",
+      "name" : "Samsung Galaxy S8",
+      "operativsystem" : "Android",
+      "pop" : 9,
+      "relDate" : 201704,
+      "screen" : "5,8 tum",
+      "show" : false,
+      "skarmupplosning" : "2960 x 1440",
+      "valj" : false,
+      "vikt" : "151 g"
+    },
+    "galaxy-s9" : {
+      "batteri" : "8 tim 13 min (videotid)",
+      "checked" : false,
+      "corp" : "Samsung",
+      "fordel1" : "Trådlös laddning",
+      "fordel2" : "Skarp kamera",
+      "fordel3" : "Stor skärm",
+      "img" : [ "https://mobiljakt.nu/images/samsung-s9-1.png", "https://mobiljakt.nu/images/samsung-s9-2.png", "https://mobiljakt.nu/images/samsung-s9-3.png" ],
+      "kamera" : "12 megapixlar",
+      "lagring" : "64 GB",
+      "name" : "Samsung Galaxy S9",
+      "operativsystem" : "Android",
+      "pop" : 9,
+      "relDate" : 201803,
+      "screen" : "5,8 tum",
+      "show" : false,
+      "skarmupplosning" : "2960  x  1440",
+      "valj" : false,
+      "vikt" : "163 g"
+    },
+    "galaxy-s9+" : {
+      "batteri" : "8 tim 13 min (videotid)",
+      "checked" : false,
+      "corp" : "Samsung",
+      "fordel1" : "Dubbel 12-megapixelkamera",
+      "fordel2" : "Filma i slow-mo",
+      "fordel3" : "Stor skärm (6,2 tum)",
+      "img" : [ "https://mobiljakt.nu/images/samsung-s9plus-1.png", "https://mobiljakt.nu/images/samsung-s9plus-2.png", "https://mobiljakt.nu/images/samsung-s9plus-3.png" ],
+      "kamera" : "12 megapixlar",
+      "lagring" : "64 GB & 256 GB",
+      "name" : "Samsung Galaxy S9+",
+      "operativsystem" : "Android",
+      "pop" : 10,
+      "relDate" : 201803,
+      "screen" : "6,2 tum",
+      "show" : false,
+      "skarmupplosning" : "2960  x  1440",
+      "valj" : false,
+      "vikt" : "189 g"
+    },
+    "huawei-honor-9" : {
+      "batteri" : "5 tim 48 min (videotid)",
+      "checked" : false,
+      "corp" : "Huawei",
+      "fordel1" : "Dubbla 12 + 20 MP kameror",
+      "fordel2" : "3D-ljudbildsteknik",
+      "fordel3" : "",
+      "img" : [ "https://mobiljakt.nu/images/huawei-honor9-1.png", "https://mobiljakt.nu/images/huawei-honor9-2.png", "https://mobiljakt.nu/images/huawei-honor9-3.png", "https://mobiljakt.nu/images/huawei-honor9-4.png" ],
+      "kamera" : "12 + 12 megapixlar",
+      "lagring" : "64 GB",
+      "name" : "Huawei Honor 9",
+      "operativsystem" : "Android",
+      "pop" : 0,
+      "relDate" : 201707,
+      "screen" : "5,15 tum",
+      "show" : false,
+      "skarmupplosning" : "1920 x 1080",
+      "valj" : false,
+      "vikt" : "155 gram"
+    },
+    "huawei-mate-10-pro" : {
+      "batteri" : "8 h 51 min (videotid)",
+      "checked" : false,
+      "corp" : "Huawei",
+      "fordel1" : "Toppklassig kamera",
+      "fordel2" : "Laddar snabbt",
+      "fordel3" : "",
+      "img" : [ "https://mobiljakt.nu/images/huawei-mate10pro-1.png", "https://mobiljakt.nu/images/huawei-mate10pro-2.png", "https://mobiljakt.nu/images/huawei-mate10pro-3.png", "https://mobiljakt.nu/images/huawei-mate10pro-4.png" ],
+      "kamera" : "20 + 12 megapixlar",
+      "lagring" : "128 GB",
+      "name" : "Huawei Mate 10 Pro",
+      "operativsystem" : "Android",
+      "pop" : 5,
+      "relDate" : 201710,
+      "screen" : "6 tum",
+      "show" : false,
+      "skarmupplosning" : "2160 x 1080",
+      "valj" : false,
+      "vikt" : "178 g"
+    },
+    "huawei-p20-lite" : {
+      "batteri" : "5 h 36 min (videotid)",
+      "checked" : false,
+      "corp" : "Huawei",
+      "fordel1" : "Dubbel kamera",
+      "fordel2" : "'Fullview Display'",
+      "fordel3" : "",
+      "img" : [ "https://mobiljakt.nu/images/huawei-p20-lite-1.png", "https://mobiljakt.nu/images/huawei-p20-lite-2.png", "https://mobiljakt.nu/images/huawei-p20-lite-3.png", "https://mobiljakt.nu/images/huawei-p20-lite-4.png" ],
+      "kamera" : "16 MP + 2 MP",
+      "lagring" : "64 GB",
+      "name" : "Huawei P20 Lite 64GB",
+      "operativsystem" : "Android",
+      "pop" : 4,
+      "relDate" : 201803,
+      "screen" : "5,84 tum",
+      "show" : false,
+      "skarmupplosning" : "1080 x 2280 px",
+      "valj" : false,
+      "vikt" : "145 gram"
+    },
+    "iphone-7" : {
+      "batteri" : "14 timmar taltid",
+      "checked" : false,
+      "corp" : "Apple",
+      "fordel1" : "Bra batteritid",
+      "fordel2" : "Skarp kamera & hög prestanda",
+      "fordel3" : "",
+      "img" : [ "https://mobiljakt.nu/images/iphone7-1.png", "https://mobiljakt.nu/images/iphone7-2.png", "https://mobiljakt.nu/images/iphone7-3.png" ],
+      "kamera" : "12,0 megapixlar",
+      "lagring" : "32 GB & 256 GB",
+      "name" : "Apple iPhone 7",
+      "operativsystem" : "iOS 10",
+      "pop" : 8,
+      "relDate" : 201609,
+      "screen" : "4,7 tum",
+      "show" : false,
+      "skarmupplosning" : "1334 x 750",
+      "valj" : false,
+      "vikt" : "138 g"
+    },
+    "iphone-8" : {
+      "batteri" : "14 timmar taltid",
+      "checked" : false,
+      "corp" : "Apple",
+      "fordel1" : "Starkt glas",
+      "fordel2" : "Bra kamera",
+      "fordel3" : "",
+      "img" : [ "https://mobiljakt.nu/images/iphone8-1.png", "https://mobiljakt.nu/images/iphone8-2.png", "https://mobiljakt.nu/images/iphone8-3.png" ],
+      "kamera" : "12,0 megapixlar",
+      "lagring" : "64 GB & 256 GB",
+      "name" : "Apple iPhone 8",
+      "operativsystem" : "iOS 11",
+      "pop" : 10,
+      "relDate" : 201710,
+      "screen" : "4,7 tum",
+      "show" : false,
+      "skarmupplosning" : "1334 × 750",
+      "valj" : false,
+      "vikt" : "148 g"
+    },
+    "iphone-x" : {
+      "batteri" : "Upp till 21 timmar taltid",
+      "checked" : false,
+      "corp" : "Apple",
+      "fordel1" : "Trådlös laddning",
+      "fordel2" : "Starkaste glaset någonsin i en smartphone",
+      "fordel3" : "Vatten och dammtålig",
+      "img" : [ "https://mobiljakt.nu/images/iphone-x-1.png", "https://mobiljakt.nu/images/iphone-x-2.png", "https://mobiljakt.nu/images/iphone-x-3.png" ],
+      "kamera" : "12 megapixlar",
+      "lagring" : "64 GB & 256 GB",
+      "name" : "Apple iPhone X",
+      "operativsystem" : "iOS 11",
+      "pop" : 10,
+      "relDate" : 201711,
+      "screen" : "5,8 tum",
+      "show" : false,
+      "skarmupplosning" : "2436 × 1125",
+      "valj" : false,
+      "vikt" : "174 g"
+    },
+    "moto-g6-plus" : {
+      "batteri" : "22 timmar taltid",
+      "checked" : false,
+      "corp" : "Motorola",
+      "fordel1" : "Upplåsning med finger eller ansiktsigenkänning",
+      "fordel2" : "Dubbla kameror",
+      "fordel3" : "",
+      "img" : [ "https://mobiljakt.nu/images/moto-g6-1.png", "https://mobiljakt.nu/images/moto-g6-2.png", "https://mobiljakt.nu/images/moto-g6-3.png" ],
+      "kamera" : "12MP + 5MP",
+      "lagring" : "64 GB",
+      "name" : "Moto G6 Plus",
+      "operativsystem" : "Android 8.0",
+      "pop" : 0,
+      "relDate" : 201807,
+      "screen" : "5,9 tum",
+      "show" : false,
+      "skarmupplosning" : "1080 x 2160",
+      "valj" : false,
+      "vikt" : "168 gram"
+    },
+    "oneplus-5t" : {
+      "batteri" : "9 tim 46 min (videotid)",
+      "checked" : false,
+      "corp" : "Oneplus",
+      "fordel1" : "Snabbladdning på 30 min.",
+      "fordel2" : "Skärm och kamera i världsklass",
+      "fordel3" : "",
+      "img" : [ "https://mobiljakt.nu/images/oneplus-5-1.png", "https://mobiljakt.nu/images/oneplus-5-2.png", "https://mobiljakt.nu/images/oneplus-5-3.png" ],
+      "kamera" : "16 + 20 MP",
+      "lagring" : "128 GB",
+      "name" : "OnePlus 5T",
+      "operativsystem" : "Android 7.1.1",
+      "pop" : 0,
+      "relDate" : 201711,
+      "screen" : "5,5 tum",
+      "show" : false,
+      "skarmupplosning" : "2160 x 1080",
+      "valj" : false,
+      "vikt" : "162 gram"
+    },
+    "oneplus-6" : {
+      "batteri" : "8 tim 22 min (videotid)",
+      "checked" : false,
+      "corp" : "Oneplus",
+      "fordel1" : "Snabbladdning på 30 min.",
+      "fordel2" : "Dubbla kameror",
+      "fordel3" : "",
+      "img" : [ "https://mobiljakt.nu/images/oneplus-6-1.png", "https://mobiljakt.nu/images/oneplus-6-2.png", "https://mobiljakt.nu/images/oneplus-6-3.png" ],
+      "kamera" : "16 + 20 MP",
+      "lagring" : "64 GB, 128 GB, 256 GB",
+      "name" : "OnePlus 6",
+      "operativsystem" : "Android 8.1",
+      "pop" : 0,
+      "relDate" : 201805,
+      "screen" : "6,28 tum",
+      "show" : false,
+      "skarmupplosning" : "2280 x 1080",
+      "valj" : false,
+      "vikt" : "177 gram"
+    },
+    "samsung-galaxy-note8" : {
+      "batteri" : "8 tim 39 min (videotid)",
+      "checked" : false,
+      "corp" : "Samsung",
+      "fordel1" : "Skarpt kamerafokus",
+      "fordel2" : "S-Pen",
+      "fordel3" : "",
+      "img" : [ "https://mobiljakt.nu/images/galaxy-note8-1.png", "https://mobiljakt.nu/images/galaxy-note8-2.png", "https://mobiljakt.nu/images/galaxy-note8-3.png", "https://mobiljakt.nu/images/galaxy-note8-4.png" ],
+      "kamera" : "12 + 12 megapixlar",
+      "lagring" : "64 GB",
+      "name" : "Samsung Galaxy Note8",
+      "operativsystem" : "Android",
+      "pop" : 4,
+      "relDate" : 201709,
+      "screen" : "6.3 tum",
+      "show" : false,
+      "skarmupplosning" : "2690 x 1440 + 400",
+      "valj" : false,
+      "vikt" : "195 gram"
+    },
+    "samsung-galaxy-s7" : {
+      "batteri" : "10 timmar (hd-film)",
+      "checked" : false,
+      "corp" : "Samsung",
+      "fordel1" : "Läcker design",
+      "fordel2" : "Vatten- och dammtålig",
+      "fordel3" : "",
+      "img" : [ "https://mobiljakt.nu/images/samsung-s7-1.png", "https://mobiljakt.nu/images/samsung-s7-2.png", "https://mobiljakt.nu/images/samsung-s7-3.png" ],
+      "kamera" : "12,0 MP",
+      "lagring" : "32 GB",
+      "name" : "Samsung Galaxy S7",
+      "operativsystem" : "Android",
+      "pop" : 5,
+      "relDate" : 201603,
+      "screen" : "5,1 tum",
+      "show" : false,
+      "skarmupplosning" : "2560 x 1440 px",
+      "valj" : false,
+      "vikt" : "152 gram"
+    },
+    "samsung-galaxy-s8+" : {
+      "batteri" : "10 h 3 min (videotid)",
+      "checked" : false,
+      "corp" : "Samsung",
+      "fordel1" : "Iris-skanner – lås upp S8+ med ögat",
+      "fordel2" : "'Omslutande infinity-skärm'",
+      "fordel3" : "",
+      "img" : [ "https://mobiljakt.nu/images/samsung-s8plus-1.png", "https://mobiljakt.nu/images/samsung-s8plus-2.png", "https://mobiljakt.nu/images/samsung-s8plus-3.png" ],
+      "kamera" : "12,0 MP",
+      "lagring" : "64 GB & 256 GB",
+      "name" : "Samsung Galaxy S8+",
+      "operativsystem" : "Android",
+      "pop" : 5,
+      "relDate" : 201703,
+      "screen" : "6,2 tum",
+      "show" : false,
+      "skarmupplosning" : "2960 x 1440",
+      "valj" : false,
+      "vikt" : "171 gram"
+    },
+    "samsung-galaxy-xcover-4" : {
+      "batteri" : "17 timmar taltid",
+      "checked" : false,
+      "corp" : "Samsung",
+      "fordel1" : "Stöttålig telefon",
+      "fordel2" : "Enkel användning",
+      "fordel3" : "",
+      "img" : [ "https://mobiljakt.nu/images/galaxy-xcover4-1.png", "https://mobiljakt.nu/images/galaxy-xcover4-2.png", "https://mobiljakt.nu/images/galaxy-xcover4-3.png" ],
+      "kamera" : "13 MP",
+      "lagring" : "16 GB",
+      "name" : "Samsung Galaxy Xcover 4",
+      "operativsystem" : "Android",
+      "pop" : 0,
+      "relDate" : 201612,
+      "screen" : "5,0 tum",
+      "show" : false,
+      "skarmupplosning" : "1280 x 720",
+      "valj" : false,
+      "vikt" : "172 gram"
+    },
+    "sony-xperia-l1" : {
+      "batteri" : "5 tim 12 min (videotid)",
+      "checked" : false,
+      "corp" : "Sony",
+      "fordel1" : "Imponerande display och bild",
+      "fordel2" : "Bra prestanda",
+      "fordel3" : "",
+      "img" : [ "https://mobiljakt.nu/images/xperia-l1-1.png", "https://mobiljakt.nu/images/xperia-l1-2.png", "https://mobiljakt.nu/images/xperia-l1-3.png", "https://mobiljakt.nu/images/xperia-l1-4.png" ],
+      "kamera" : "13 megapixlar",
+      "lagring" : "16 GB(inbyggt) & 256 GB(maxminne)",
+      "name" : "Sony Xperia L1",
+      "operativsystem" : "Android",
+      "pop" : 2,
+      "relDate" : 201705,
+      "screen" : "5,5 tum HD",
+      "show" : false,
+      "skarmupplosning" : "1280 x 720",
+      "valj" : false,
+      "vikt" : "180 gram"
+    },
+    "sony-xperia-xz2" : {
+      "batteri" : "5 tim 45 min (videotid)",
+      "checked" : false,
+      "corp" : "Sony",
+      "fordel1" : "Hög bildkvalitet",
+      "fordel2" : "Snabb processor",
+      "fordel3" : "",
+      "img" : [ "https://mobiljakt.nu/images/xperia-xz2-1.png", "https://mobiljakt.nu/images/xperia-xz2-2.png", "https://mobiljakt.nu/images/xperia-xz2-3.png" ],
+      "kamera" : "19 megapixlar",
+      "lagring" : "64 GB",
+      "name" : "Sony Xperia XZ2",
+      "operativsystem" : "Android",
+      "pop" : 4,
+      "relDate" : 201804,
+      "screen" : "5,7 tum",
+      "show" : false,
+      "skarmupplosning" : "2160 x 1080",
+      "valj" : false,
+      "vikt" : "197 g"
+    }
+  }
+}
